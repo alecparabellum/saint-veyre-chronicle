@@ -1,1 +1,27 @@
-# Protocol Test: Multiline PreservationThis is the first paragraph.This is the second paragraph.## List Test- Item A- Item B- Item C## Quote Test> Saint Veyre remembers.## Code Test`A < B``A > B``A & B`## Final SectionIf this file is read back correctly, multiline markdown preservation is working.
+# Protocol Test: Multiline Preservation
+
+This is the first paragraph.
+
+This is the second paragraph.
+
+## List Test
+
+- Item A
+- Item B
+- Item C
+
+## Quote Test
+
+> Saint Veyre remembers.
+
+## Code Test
+
+`A < B`
+
+`A > B`
+
+`A & B`
+
+## Final Section
+
+If this file is read back correctly, multiline markdown preservation is working.
