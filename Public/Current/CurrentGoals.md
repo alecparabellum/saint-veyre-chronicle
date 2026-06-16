@@ -1,18 +1,1 @@
-# Current Goals
-
-## Repository Test Goal
-
-This entry was added as part of the repository architecture testing process.
-
-If this file appears multiline both locally and remotely after the update, then updates may behave differently than creates.
-
-## Saint Veyre Goals
-
-- Establish Alec's place within Kindred society.
-- Build meaningful relationships.
-- Uncover the truths hidden beneath Saint Veyre.
-- Survive long enough to matter.
-
-## Test Marker
-
-REPOSITORY_UPDATE_TEST_001
+# Current Goals## Repository Test GoalThis entry was added as part of the repository architecture testing process.If this file appears multiline both locally and remotely after the update, then updates may behave differently than creates.## Saint Veyre Goals- Establish Alec's place within Kindred society.- Build meaningful relationships.- Uncover the truths hidden beneath Saint Veyre.- Survive long enough to matter.## Test MarkerREPOSITORY_UPDATE_TEST_001
