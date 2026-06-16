@@ -2,9 +2,9 @@
 
 ## Repository Test Goal
 
-This file is currently being used to validate update behavior across the repository pipeline.
+This entry was added as part of the repository architecture testing process.
 
-Multiple successive updates should preserve formatting, line breaks, and markdown structure.
+If this file appears multiline both locally and remotely after the update, then updates may behave differently than creates.
 
 ## Saint Veyre Goals
 
@@ -15,23 +15,4 @@ Multiple successive updates should preserve formatting, line breaks, and markdow
 
 ## Test Marker
 
-REPOSITORY_UPDATE_TEST_003
-
-## Sequential Update Test
-
-This is the first paragraph of the third update.
-
-This is the second paragraph of the third update.
-
-This is the third paragraph of the third update.
-
-### Checklist
-
-- Verify local repository formatting.
-- Verify GitHub formatting.
-- Verify repository readback behavior.
-- Compare with previous update tests.
-
-### Final Marker
-
-END_OF_UPDATE_TEST_003
+REPOSITORY_UPDATE_TEST_001
