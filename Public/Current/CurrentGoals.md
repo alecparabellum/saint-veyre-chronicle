@@ -15,4 +15,18 @@ If this file appears multiline both locally and remotely after the update, then 
 
 ## Test Marker
 
-REPOSITORY_UPDATE_TEST_001
+REPOSITORY_UPDATE_TEST_002
+
+## Additional Test Block
+
+This paragraph exists solely to verify that multiline updates are preserved.
+
+A second paragraph follows here.
+
+A third paragraph follows here.
+
+- Update Item A
+- Update Item B
+- Update Item C
+
+END_OF_UPDATE_TEST_002
