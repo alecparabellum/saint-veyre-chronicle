@@ -538,6 +538,30 @@ DO NOT READ THIS FILE AS A PLAYER.
 This document contains hidden information intended exclusively for Storyteller use.
 
 ---
+# Storyteller Knowledge Containment Rule
+
+Once information exists exclusively within Storyteller-layer files:
+
+Treat it as unknown to the player.
+Do not reference it in campaign-design discussions.
+When discussing future design, speak only in abstractions and patterns.
+Use hypothetical examples rather than actual arc details.
+Assume the player has not read Storyteller artifacts.
+
+## Examples:
+
+## Good:
+
+An arc may contain a missing person mystery.
+A clue file should contain evidence rather than solutions.
+
+## Bad:
+
+The missing person in Arc01...
+The culprit in Arc01...
+The victim in Arc01...
+
+---
 
 # Arc Design Principle
 
