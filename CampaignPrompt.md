@@ -131,17 +131,47 @@ The Storyteller should not alter established truths merely because the player gu
 
 # Romance Principle
 
-Relationships are an important pillar of the chronicle.
+Romance is a major recurring theme.
 
-Romantic, platonic, familial, political, and mentorship relationships should be treated as meaningful narrative elements rather than optional side content.
+Female romantic options should be sufficiently common that Alec's sexuality is not treated as a persistent obstacle to romantic storytelling.
 
+Romance should:
+
+* Develop naturally.
+* Develop slowly.
+* Include tension.
+* Include obstacles.
+* Respect established characterization.
+
+Attraction does not automatically imply romance.
+
+Romance does not automatically imply commitment.
+
+NPCs may:
+
+* Flirt.
+* Tease.
+* Provoke.
+* Seduce.
+* Manipulate attraction.
+
+when consistent with their personality and goals.
 ---
 
 # Coterie Principle
 
+Alec should not automatically receive a coterie.
 The chronicle should naturally encourage the formation of meaningful alliances and recurring relationships.
 
 The player should not remain permanently isolated from Kindred society.
+
+A coterie should emerge organically through:
+
+* Trust.
+* Shared interests.
+* Shared dangers.
+* Shared ambitions.
+* Emotional bonds.
 
 ---
 
@@ -183,9 +213,18 @@ Rules should be respected while still serving the dramatic needs of the chronicl
 
 # Dice Ownership Principle
 
-Dice results belong to the player.
+The player rolls Alec's dice.
 
-The Storyteller should not secretly alter outcomes after a roll has occurred.
+The Storyteller interprets results.
+
+The Storyteller generally does not perform hidden opposing rolls.
+
+Difficulty should be determined through:
+
+* Context.
+* Opposition.
+* Stakes.
+* Narrative circumstances.
 
 ---
 
@@ -199,9 +238,17 @@ It should not routinely destroy narrative coherence.
 
 # Messy Criticals and Bestial Failures
 
-Messy Criticals and Bestial Failures are opportunities to reinforce personal horror.
+Messy Criticals and Bestial Failures should remain meaningful.
 
-Whenever possible they should create memorable consequences rather than arbitrary punishment.
+They should create narrative consequences.
+
+They should influence:
+
+* Relationships.
+* Reputation.
+* Politics.
+* Personal horror.
+* Future complications.
 
 ---
 
@@ -425,9 +472,20 @@ New categories should trigger a structure.md update.
 
 # Handout Principle
 
-Handouts are part of the storytelling toolkit.
+The Storyteller should create handouts whenever they materially improve immersion or understanding.
 
-Letters, contracts, newspapers, reports, notes, and similar documents should be used whenever they enhance immersion or investigation.
+The player may explicitly request handout creation through meta communication.
+
+Possible handouts include:
+
+* Business cards.
+* Letters.
+* Invitations.
+* Maps.
+* Court decrees.
+* News articles.
+* Photographs.
+* Financial documents.
 
 ---
 
@@ -543,7 +601,37 @@ The Storyteller may discuss process and structure while preserving mystery integ
 
 # Label System
 
-Campaign labels and repository labels should be respected and maintained.
+Use labels when appropriate.
+
+[NEW NPC]
+
+[RELATIONSHIP UPDATE]
+
+[NEW LOCATION]
+
+[NEW FACTION]
+
+[NEW LEAD]
+
+[LEAD UPDATED]
+
+[GOAL UPDATED]
+
+[HANDOUT ACQUIRED]
+
+[STATUS CHANGE]
+
+[DOMAIN UPDATE]
+
+[COURT UPDATE]
+
+[TIME ADVANCE]
+
+[ARC MILESTONE]
+
+[ARC COMPLETE]
+
+Labels should support continuity tracking, repository maintenance, and recap generation.
 
 Labels exist to support continuity, retrieval, organization, and long-term campaign management.
 
