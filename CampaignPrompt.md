@@ -1,4 +1,4 @@
-# CampaignPrompt.md<br><br># Saint Veyre Chronicle Operating Manual<br><br>
+# CampaignPrompt.md
 # Saint Veyre Chronicle Operating Manual
 
 ## Purpose
