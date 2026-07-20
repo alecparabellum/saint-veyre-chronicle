@@ -1,0 +1,1 @@
+A Vampire The Masquerade Campaign. With data being stored on the GitHub repo saint-veyre-chronicle to which we can access through the GitHub connector
