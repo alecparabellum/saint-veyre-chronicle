@@ -1,1 +1,106 @@
-# Saint Veyre Repository Structure<br><br>## Root<br><br>/<br>├── CampaignPrompt.md<br>├── structure.md<br>├── Public/<br>└── Storyteller/<br><br>---<br><br>## Public<br><br>Public/<br>├── Characters/<br>│   └── One folder per public character<br>├── Current/<br>│   └── Current campaign state visible to the player<br>├── Handouts/<br>│   ├── Letters/<br>│   ├── Newspapers/<br>│   ├── Contracts/<br>│   └── Other player-facing documents<br>└── World/<br>    └── Public world information<br><br>---<br><br>## Storyteller<br><br>Storyteller/<br>├── Characters/<br>│   └── One folder per major NPC<br>├── Arcs/<br>│   └── One folder per campaign arc<br>├── ST_AncientChronicles.md<br>├── ST_FoundationalTruth.md<br>├── ST_LongTermConspiracies.md<br>└── ST_TrueHistory.md<br><br>---<br><br>## Conventions<br><br>Public/Characters/{CharacterName}/<br>    Character information, portraits, handouts.<br><br>Storyteller/Characters/{CharacterName}/<br>    Hidden character information for a specific NPC.<br><br>Public/Handouts/{Category}/<br>    Handout categories.<br><br>Storyteller/Arcs/ArcXX/<br>    Arc planning documents.<br><br>---<br><br>## Structure Maintenance<br><br>Update this file only when:<br><br>- Creating a new category.<br>- Creating a new organizational convention.<br><br>Do not update this file when:<br><br>- Creating a character.<br>- Creating a handout.<br>- Creating an arc.<br>- Creating ordinary content files.
+# Saint Veyre Repository Structure
+
+## Root
+
+```text
+/
+├── CampaignPrompt.md
+├── structure.md
+├── Public/
+└── Storyteller/
+```
+
+---
+
+## Public
+
+```text
+Public/
+├── Characters/
+│   └── One folder per public character
+├── Current/
+│   └── Current campaign state visible to the player
+├── Handouts/
+│   ├── Letters/
+│   ├── Newspapers/
+│   ├── Contracts/
+│   └── Other player-facing documents
+├── Visual/
+│   ├── Characters/
+│   │   ├── CharacterVisualProfile_Template.md
+│   │   └── One folder per character visual profile
+│   ├── Locations/
+│   │   └── One folder per location visual profile
+│   ├── Factions/
+│   │   └── One folder per faction or institution visual profile
+│   ├── PromptTemplates/
+│   │   └── Reusable image-generation templates
+│   └── Reference/
+│       └── Continuity, variation, review, and naming tools
+└── World/
+    ├── Public world information
+    └── VisualArtBible.md
+```
+
+---
+
+## Storyteller
+
+```text
+Storyteller/
+├── Characters/
+│   └── One folder per major NPC
+├── Arcs/
+│   └── One folder per campaign arc
+├── Current/
+│   └── Current Storyteller session state
+├── Visual/
+│   └── Spoiler-sensitive visual profiles, prompts, clues, and covers
+├── ST_AncientChronicles.md
+├── ST_FoundationalTruth.md
+├── ST_LongTermConspiracies.md
+└── ST_TrueHistory.md
+```
+
+---
+
+## Conventions
+
+```text
+Public/Characters/{CharacterName}/
+    Character information, portraits, and character-specific handouts.
+
+Public/Visual/Characters/{CharacterName}/
+    Public visual profile and image-direction notes for the character.
+
+Storyteller/Characters/{CharacterName}/
+    Hidden character information for a specific NPC.
+
+Storyteller/Visual/{Category}/{SubjectName}/
+    Spoiler-sensitive visual information or unrevealed image concepts.
+
+Public/Handouts/{Category}/
+    Handout categories.
+
+Storyteller/Arcs/ArcXX/
+    Arc planning documents.
+```
+
+Public visual profiles must not reveal hidden motives, secret affiliations, unrevealed transformations, or undiscovered supernatural traits.
+
+---
+
+## Structure Maintenance
+
+Update this file only when:
+
+- Creating a new category.
+- Creating a new organizational convention.
+
+Do not update this file when:
+
+- Creating a character.
+- Creating a handout.
+- Creating an arc.
+- Creating an ordinary content file.
+- Adding a new visual profile within an established visual category.
