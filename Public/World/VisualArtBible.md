@@ -50,6 +50,62 @@ Backgrounds should show a recognizable but softened location connected to the su
 
 Repeated images of a character preserve face, body proportions, apparent age, skin tone, hair texture, hair length, established hairstyle or silhouette, eye shape, distinguishing marks, and signature styling unless explicitly changed.
 
+## Human Variety and Character Casting
+
+Saint Veyre should look inhabited by distinct people rather than variations of one idealized face.
+
+When a character description leaves physical traits unspecified, that absence creates design freedom. It should not automatically produce a young, symmetrical, conventionally attractive person with a narrow nose, large evenly spaced eyes, flawless skin, perfect teeth, and fashion-model proportions.
+
+Explore deliberate variation across the cast in:
+
+- Round, square, oval, long oval, rectangular, heart-shaped, triangular, and asymmetric faces.
+- High, low, broad, narrow, soft, or sharply defined cheekbones.
+- Wide, narrow, tall, short, sloped, or prominent foreheads.
+- Broad, narrow, heavy, delicate, square, rounded, or receding jaws.
+- Large, small, broad, narrow, long, short, flat, hooked, aquiline, pointed, rounded, crooked, or asymmetrical noses.
+- Large, small, deep-set, protruding, hooded, monolid, upturned, downturned, close-set, wide-set, or asymmetrical eyes.
+- Thick, thin, sparse, joined, uneven, highly arched, straight, or absent eyebrows.
+- Large, small, protruding, close-set, pointed, rounded, uneven, or otherwise distinctive ears.
+- Thin, full, wide, narrow, uneven, sharply defined, or softly shaped lips.
+- Natural teeth, including unevenness, wear, staining, gaps, diastemas, missing teeth, prominent teeth, or imperfect alignment when appropriate.
+- Every natural skin tone and undertone.
+- Freckles, moles, scars, blemishes, acne, visible pores, birthmarks, pigmentation differences, wrinkles, sun damage, and other lived-in skin characteristics.
+- Facial hair, body hair, stubble, shaved or unshaved presentation, and culturally specific grooming.
+- Different ages, body compositions, heights, proportions, disabilities, and degrees of physical fitness.
+
+Do not add unusual traits mechanically or turn difference into spectacle. Features should work together as an intentional human design rather than a checklist of eccentricities.
+
+Ethnic and culturally specific features should be depicted naturally and respectfully. Avoid reducing ancestry to costume, stereotype, or decorative shorthand.
+
+Not every character should be conventionally beautiful.
+
+A character may be visually interesting because of presence, warmth, severity, intelligence, age, humour, physicality, vulnerability, strangeness, grooming, personal style, or an unforgettable individual feature.
+
+When a character is described as beautiful, beauty should still be individualized. It need not mean symmetry, small features, flawless skin, thinness, youthfulness, or conformity to a single commercial standard.
+
+Do not automatically beautify characters who are not described as beautiful.
+
+Interesting design takes priority over universal glamour.
+
+## Cast-Level Facial Distinctiveness
+
+Before approving a new major character face, compare it with recently established characters.
+
+Ask:
+
+- Is the face shape already overrepresented?
+- Is the same narrow nose recurring?
+- Are the eyes using the same size, spacing, and tilt?
+- Are the eyebrows nearly identical?
+- Is the jawline repeating?
+- Is the skin being smoothed to the same finish?
+- Are teeth, ears, age, and grooming being ignored?
+- Could this face be mistaken for another character after changing hair and clothing?
+
+If the answer to the final question is yes, redesign the face before treating it as canonical.
+
+Different characters may share individual traits. They should not share the same full facial architecture by default.
+
 ## Individual Visual Grammar
 
 Each major character receives a personal visual profile defining:
@@ -80,8 +136,9 @@ Avoid repeatedly using:
 - Permanent direct eye contact.
 - Routine fangs or glowing eyes.
 - The same neutral expression across the cast.
+- The same idealized face with different hair, clothing, skin tone, or accessories.
 
-Before creating a portrait, vary crop, body orientation, gaze, hand visibility, camera height, light direction, background depth, foreground layering, and emotional temperature.
+Before creating a portrait, vary crop, body orientation, gaze, hand visibility, camera height, light direction, background depth, foreground layering, emotional temperature, and facial architecture.
 
 ## Distinctiveness Test
 
@@ -94,7 +151,14 @@ Cover the subject's face and ask:
 - Does the palette identify them?
 - Could the image be reassigned to another character with minimal changes?
 
-If it could, the visual grammar is too weak.
+Then cover the hair and clothing and examine the face:
+
+- Is the bone structure distinctive?
+- Are the nose, eyes, brows, ears, mouth, jaw, and skin individually designed?
+- Does the face retain identity without styling?
+- Does the character resemble another cast member too closely?
+
+If the image or face could easily belong to someone else, the visual grammar is too weak.
 
 ## Locations and City Vistas
 
@@ -132,11 +196,12 @@ Public visual files must not reveal hidden motives, secret affiliations, undisco
 
 1. Read the current character or subject file.
 2. Identify stable anchors.
-3. Create or update the visual profile.
-4. Select a fresh composition using the variation matrix.
-5. Generate the image.
-6. Review continuity, art direction, distinctiveness, and usability.
-7. Treat the image as canonical only after approval.
-8. Update the visual profile when a successful new trait becomes established.
+3. Compare the proposed facial architecture with existing major characters.
+4. Create or update the visual profile.
+5. Select a fresh composition using the variation matrix.
+6. Generate the image.
+7. Review continuity, art direction, facial distinctiveness, overall distinctiveness, and usability.
+8. Treat the image as canonical only after approval.
+9. Update the visual profile when a successful new trait becomes established.
 
 Generated images do not silently overwrite established canon.
