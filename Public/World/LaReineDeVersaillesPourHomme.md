@@ -48,12 +48,12 @@ Alexandra rejected the idea that masculinity had to be expressed through excessi
 
 Instead, she designed a fragrance around controlled contrasts:
 
-* Brightness and smoke.
-* Fresh fruit and burnt wood.
-* Luxury and danger.
-* Clean skin and dark fabric.
-* Youthful energy and mature authority.
-* Immediate attraction and lasting restraint.
+- Brightness and smoke.
+- Fresh fruit and burnt wood.
+- Luxury and danger.
+- Clean skin and dark fabric.
+- Youthful energy and mature authority.
+- Immediate attraction and lasting restraint.
 
 ---
 
@@ -71,7 +71,7 @@ The fragrance became an extraordinary success.
 
 Its sales exceeded expectations, elevated the profile of C'est La Reine, and made Alexandra independently wealthy.
 
-The royalty agreement later became a major source of resentment as the fragrance continued to generate revenue for both its creator and the house.
+The royalty agreement later became a major source of tension as the fragrance continued to generate revenue for both its creator and the house.
 
 ---
 
@@ -79,22 +79,20 @@ The royalty agreement later became a major source of resentment as the fragrance
 
 ## Primary Notes
 
-* Pineapple.
-* Ginger.
-* Birch.
-* Musk.
+- Pineapple.
+- Ginger.
+- Birch.
+- Musk.
 
 These four materials form the most recognisable structure of the fragrance.
 
----
-
 ## Supporting Notes
 
-* Lemon.
-* Black currant.
-* Vanilla.
-* Patchouli.
-* Sandalwood.
+- Lemon.
+- Black currant.
+- Vanilla.
+- Patchouli.
+- Sandalwood.
 
 The supporting notes deepen and stabilise the composition without distracting from its central pineapple, ginger, birch, and musk accord.
 
@@ -104,18 +102,20 @@ The supporting notes deepen and stabilise the composition without distracting fr
 
 ## Opening
 
-* Lemon.
-* Pineapple.
-* Black currant.
-* Ginger.
+- Lemon.
+- Pineapple.
+- Black currant.
+- Ginger.
 
 The opening is bright, fizzy, and citrus-forward.
 
-Fresh pineapple provides the dominant impression. Ginger creates an effervescent sensation around the fruit, while lemon sharpens its edges.
+Fresh pineapple provides the dominant impression.
+
+Ginger creates an effervescent sensation around the fruit, while lemon sharpens its edges.
 
 Black currant adds a darker, slightly tart undertone.
 
-The pineapple contains a restrained natural sweetness, but the opening is not syrupy or tropical in character.
+The pineapple contains restrained natural sweetness, but the opening is not syrupy or tropical in character.
 
 It feels polished, energetic, and expensive.
 
@@ -123,10 +123,10 @@ It feels polished, energetic, and expensive.
 
 ## Heart
 
-* Smoked pineapple.
-* Birch.
-* Ginger.
-* Patchouli.
+- Smoked pineapple.
+- Birch.
+- Ginger.
+- Patchouli.
 
 As the fragrance develops, the bright pineapple begins to darken.
 
@@ -138,17 +138,17 @@ This smoked pineapple accord is the defining feature of the fragrance.
 
 It remains present throughout the rest of the perfume's development.
 
-Ginger retains a subtle heat while patchouli gives the heart greater depth and texture.
+Ginger retains subtle heat while patchouli gives the heart greater depth and texture.
 
 ---
 
 ## Drydown
 
-* Musk.
-* Sandalwood.
-* Patchouli.
-* Birch.
-* Vanilla.
+- Musk.
+- Sandalwood.
+- Patchouli.
+- Birch.
+- Vanilla.
 
 The final stage settles close to the skin.
 
@@ -160,7 +160,9 @@ Patchouli and birch preserve the fragrance's shadowed character, while traces of
 
 Vanilla is used in restraint.
 
-Its purpose is not to make the fragrance sweet. It softens the severity of the woods and smoke, preventing the composition from becoming harsh or lifeless.
+Its purpose is not to make the fragrance sweet.
+
+It softens the severity of the woods and smoke, preventing the composition from becoming harsh or lifeless.
 
 The final effect is woody, clean, dark, and intimate.
 
@@ -194,15 +196,15 @@ That transformation is central to the identity of the perfume.
 
 La Reine de Versailles Pour Homme is presented as:
 
-* Masculine.
-* Sophisticated.
-* Sexy.
-* Mature.
-* Self-possessed.
-* Versatile.
-* Dark without becoming oppressive.
-* Fresh without becoming sporty.
-* Sweetened without becoming a sweet fragrance.
+- Masculine.
+- Sophisticated.
+- Sexy.
+- Mature.
+- Self-possessed.
+- Versatile.
+- Dark without becoming oppressive.
+- Fresh without becoming sporty.
+- Sweetened without becoming a sweet fragrance.
 
 The perfume is designed to suggest maturity without requiring age.
 
@@ -242,19 +244,21 @@ The fragrance is built around the idea that masculinity is a form of command rat
 
 Its version of masculinity is defined through:
 
-* Composure.
-* Sexual confidence.
-* Social ease.
-* Decisiveness.
-* Restraint.
-* Authority.
-* The ability to remain calm while attracting attention.
+- Composure.
+- Sexual confidence.
+- Social ease.
+- Decisiveness.
+- Restraint.
+- Authority.
+- The ability to remain calm while attracting attention.
 
 The royal imagery does not portray the wearer as someone born into power.
 
 It portrays him as someone who has learned how to wear it.
 
-Although sold as a Pour Homme fragrance, later advertising deliberately broadened its symbolism. The fragrance could be worn by anyone drawn to its masculine character and its promise of self-command.
+Although sold as a Pour Homme fragrance, later advertising deliberately broadened its symbolism.
+
+The fragrance could be worn by anyone drawn to its masculine character and its promise of self-command.
 
 ---
 
@@ -268,8 +272,6 @@ Its shoulders are broad and architectural, giving it a masculine silhouette with
 
 The thick glass base makes the bottle feel permanent and ceremonial.
 
----
-
 ## Glass
 
 The bottle is produced from heavy transparent glass with a warm amber tint.
@@ -280,8 +282,6 @@ The edges remain clear enough to catch and refract light.
 
 Under warm illumination, the bottle resembles polished amber framed by crystal.
 
----
-
 ## Label
 
 The front label is a deep black rectangular plaque with a subtle leather or fine-paper texture.
@@ -290,21 +290,19 @@ It is bordered by a narrow gold line with small ornamental corner details.
 
 The central elements are:
 
-1. The crowned **R** crest.
-2. The name **La Reine de Versailles**.
-3. The designation **Pour Homme**.
-4. The house name **C'est La Reine**.
-5. The word **Paris**.
+1. The crowned R crest.
+2. The name La Reine de Versailles.
+3. The designation Pour Homme.
+4. The house name C'est La Reine.
+5. The word Paris.
 
 All lettering is rendered in antique gold.
-
----
 
 ## Crest
 
 The fragrance uses the standard C'est La Reine royal crest.
 
-A single ornamental **R** sits within an oval frame surrounded by symmetrical baroque foliage.
+A single ornamental R sits within an oval frame surrounded by symmetrical baroque foliage.
 
 A crown rests above the oval.
 
@@ -313,8 +311,6 @@ The crest is not redesigned into a more conventionally masculine symbol.
 Its survival unchanged is deliberate.
 
 The fragrance claims the existing crown rather than asking for a separate one.
-
----
 
 ## Cap
 
@@ -328,15 +324,13 @@ The cap sits upon a polished gold collar.
 
 The visual contrast between the clear crystal form and the dark centre echoes the fragrance's transition from bright pineapple to smoke.
 
----
-
 ## Hardware
 
 The atomiser and collar use polished gold metal.
 
 No exposed plastic should be visible.
 
-The spray mechanism is concealed beneath the cap so that the bottle retains the appearance of a formal object when closed.
+The spray mechanism is concealed beneath the cap so the bottle retains the appearance of a formal object when closed.
 
 ---
 
@@ -348,17 +342,15 @@ The standard retail carton is a rigid rectangular box covered in textured black 
 
 The front uses:
 
-* The crowned R crest in gold foil.
-* A narrow gold border.
-* The fragrance name.
-* Pour Homme designation.
-* Eau de Parfum concentration.
-* Volume information.
-* C'est La Reine Paris wordmark.
+- The crowned R crest in gold foil.
+- A narrow gold border.
+- The fragrance name.
+- Pour Homme designation.
+- Eau de Parfum concentration.
+- Volume information.
+- C'est La Reine Paris wordmark.
 
 The interior is lined in black with a fitted compartment holding the bottle upright.
-
----
 
 ## Presentation Case
 
@@ -370,31 +362,27 @@ Inside, the bottle rests within a black velvet or satin-lined recess.
 
 The opening experience is designed to resemble the presentation of jewellery or a royal decoration.
 
----
-
 ## Collector Cylinder
 
 Selected department stores and limited releases use a cylindrical black presentation container.
 
 A thin gold line divides the lid from the body.
 
-The crest appears prominently on the front, with product information positioned beneath it.
+The crest appears prominently on the front, with product information beneath it.
 
 The cylinder provides a more ceremonial alternative to the standard carton and is frequently used for gift editions.
-
----
 
 ## Packaging Character
 
 The complete packaging system should feel:
 
-* Heavy.
-* Formal.
-* Tactile.
-* Architectural.
-* Dark.
-* Ceremonial.
-* Suitable for permanent display.
+- Heavy.
+- Formal.
+- Tactile.
+- Architectural.
+- Dark.
+- Ceremonial.
+- Suitable for permanent display.
 
 The package should never feel disposable, brightly coloured, sporty, or technologically minimalist.
 
@@ -406,17 +394,17 @@ The package should never feel disposable, brightly coloured, sporty, or technolo
 
 La Reine de Versailles Pour Homme campaigns use:
 
-* Black marble.
-* Gilded palace interiors.
-* Dark wood.
-* Crystal.
-* Mirrors.
-* Smoke.
-* Amber light.
-* Black fabric.
-* Gold ornament.
-* Strong shadow.
-* Controlled negative space.
+- Black marble.
+- Gilded palace interiors.
+- Dark wood.
+- Crystal.
+- Mirrors.
+- Smoke.
+- Amber light.
+- Black fabric.
+- Gold ornament.
+- Strong shadow.
+- Controlled negative space.
 
 The bottle is photographed as though it were an object of authority.
 
@@ -428,16 +416,16 @@ It is frequently placed at the centre of the frame or raised upon a marble surfa
 
 Still-life campaigns may surround the bottle with:
 
-* Fresh pineapple.
-* Charred pineapple.
-* Lemon peel.
-* Ginger root.
-* Black currants.
-* Smoking birch wood.
-* Patchouli leaves.
-* Sandalwood.
-* Vanilla pods.
-* White or ivory fabric representing clean musk.
+- Fresh pineapple.
+- Charred pineapple.
+- Lemon peel.
+- Ginger root.
+- Black currants.
+- Smoking birch wood.
+- Patchouli leaves.
+- Sandalwood.
+- Vanilla pods.
+- White or ivory fabric representing clean musk.
 
 The note arrangement should show the fragrance's transformation from brightness into smoke.
 
@@ -449,7 +437,7 @@ Pineapple is always the dominant visual ingredient.
 
 ## Palace Campaign
 
-The bottle stands before a gilded mirror or a palace window overlooking Versailles-inspired architecture.
+The bottle stands before a gilded mirror or palace window overlooking Versailles-inspired architecture.
 
 Smoke moves behind the bottle while warm light passes through the amber glass.
 
@@ -461,8 +449,6 @@ Common campaign copy includes:
 
 **Wear Your Crown.**
 
----
-
 ## Composition Campaign
 
 The bottle is surrounded by fresh and charred pineapple, ginger, black currant, lemon peel, smoking birch, sandalwood, vanilla, and dark green patchouli.
@@ -473,7 +459,7 @@ The visual narrative moves from bright fruit on one side to smoke and dark wood 
 
 ---
 
-# The Provocative Campaign
+# Human Campaign Cycle
 
 One of the fragrance's most discussed advertising cycles used age-gap relationships to dramatise the idea that the perfume makes its wearer appear unusually mature, commanding, and sexually compelling.
 
@@ -573,17 +559,98 @@ Control belongs to the temptation she cannot dismiss.
 
 ---
 
+# The Model Crossover Controversy
+
+Years later, the male model from **Some Crowns Are Earned** appeared in the launch campaign for Maison Le Veil's La Rose Bleue Voilée Eau de Toilette.
+
+The contrast was unmistakable.
+
+In the C'est La Reine campaign, he wore black in a dark private library.
+
+In the Maison Le Veil campaign, he wore a white suit and blue shirt within a bright blue-and-ivory setting while holding a blue mask.
+
+The fragrance press treated the casting as a visual declaration that the model had changed houses.
+
+Common interpretations included:
+
+- Alec reclaiming the masculine identity she had created for C'est La Reine.
+- Maison Le Veil presenting Rose Blue as the modern successor to La Reine de Versailles Pour Homme.
+- A deliberate provocation aimed at Céleste Reine.
+- A public rivalry expressed through one recognisable face.
+
+Rumours claimed the remaining models would also appear in Maison Le Veil advertising.
+
+This did not happen.
+
+The remaining models were subject to non-compete clauses, and no evidence emerged that Maison Le Veil approached them.
+
+---
+
+# Competition with La Rose Bleue Voilée
+
+La Rose Bleue Voilée became the most direct commercial rival to La Reine de Versailles Pour Homme.
+
+The perfumes smell different but share several market qualities.
+
+Both are:
+
+- Masculine.
+- Clean without becoming soapy.
+- Distinctive without becoming difficult.
+- Suitable for year-round use.
+- Associated with strong performance.
+- Built around an immediately recognisable signature.
+- Closely tied to Alec Le Veil's public authorship.
+
+La Reine de Versailles Pour Homme moves from pineapple into smoke, birch, wood, and musk.
+
+La Rose Bleue Voilée moves from grapefruit into peppered rose, ambroxan, wood, and musk.
+
+The comparison intensified because Rose Blue became Maison Le Veil's commercial flagship.
+
+Some consumers treated the choice between them as a choice between the crown and the mask.
+
+---
+
+# Authorship, Ownership, and Royalties
+
+C'est La Reine owns the fragrance and continues producing it.
+
+Alec Le Veil remains publicly credited as its perfumer and receives royalties under the original agreement.
+
+This arrangement makes the fragrance unusually important to both houses.
+
+For C'est La Reine, it is:
+
+- The foundation of the masculine division.
+- A continuing bestseller.
+- A permanent part of the catalogue.
+- A symbol of the house's international expansion.
+
+For Alec, it is:
+
+- The composition that made her famous.
+- The foundation of her fortune.
+- Proof of her commercial judgement.
+- A work she remains visibly proud of despite later rivalry.
+
+Alec has often resisted calling it her magnum opus.
+
+Her interviews nevertheless reveal unusual reverence whenever she discusses its creation.
+
+---
+
 # Advertising Principles
 
 La Reine de Versailles Pour Homme advertising should communicate:
 
-* Masculinity without brutality.
-* Sexuality without explicit nudity.
-* Luxury without cheerful excess.
-* Maturity without disguising the models' ages.
-* Power without weapons.
-* Seduction through posture, eye contact, proximity, clothing, and status.
-* The inversion of an expected social hierarchy.
+- Masculinity without brutality.
+- Sexuality without explicit nudity.
+- Luxury without cheerful excess.
+- Maturity without disguising the models' ages.
+- Power without weapons.
+- Seduction through posture, eye contact, proximity, clothing, and status.
+- The inversion of an expected social hierarchy.
 
 Human campaigns should remain cinematic and plausible enough to appear in a real luxury magazine or on a metropolitan billboard.
 
@@ -597,12 +664,12 @@ It attracted established C'est La Reine customers while reaching a much broader 
 
 Reviewers frequently praised:
 
-* The transformation of pineapple from fresh to smoked.
-* The contrast between fruit and birch.
-* The clean musky drydown.
-* Its ability to move between formal and casual settings.
-* Its balance of accessibility and distinctive character.
-* Its refusal to rely upon conventional aggressive masculine notes.
+- The transformation of pineapple from fresh to smoked.
+- The contrast between fruit and birch.
+- The clean musky drydown.
+- Its ability to move between formal and casual settings.
+- Its balance of accessibility and distinctive character.
+- Its refusal to rely upon conventional aggressive masculine notes.
 
 The fragrance became associated with confidence, maturity, and social advancement.
 
@@ -618,38 +685,39 @@ La Reine de Versailles Pour Homme remains C'est La Reine's defining masculine fr
 
 It is frequently described as:
 
-* The fragrance that saved the house's men's division.
-* The perfume that made Alexandra Jean famous.
-* The foundation of Alec Le Veil's fortune.
-* The product that transformed C'est La Reine into a major luxury company.
-* One of the house's most recognisable creations.
+- The fragrance that saved the house's men's division.
+- The perfume that made Alexandra Jean famous.
+- The foundation of Alec Le Veil's fortune.
+- The product that transformed C'est La Reine into a major luxury company.
+- One of the house's most recognisable creations.
+- The crown against which Maison Le Veil's masks were first measured.
 
 Attempts by C'est La Reine to reproduce its success never fully escaped comparison with the original.
 
-The fragrance also became central to the later rivalry between the house and Alec Le Veil.
+The fragrance became central to the later rivalry between the house and Alec Le Veil.
 
-Its continuing royalties served as proof that the most valuable masculine creation in C'est La Reine's catalogue had come from a perfumer who eventually became its competitor.
+Its continuing royalties serve as proof that the most valuable masculine creation in C'est La Reine's catalogue came from a perfumer who eventually became its competitor.
 
 ---
 
 # Canonical Visual Summary
 
-Future depictions of La Reine de Versailles Pour Homme should preserve the following details:
+Future depictions of La Reine de Versailles Pour Homme should preserve:
 
-* Tall rectangular bottle.
-* Heavy transparent glass.
-* Warm amber liquid.
-* Thick clear base.
-* Broad architectural shoulders.
-* Black rectangular front label.
-* Antique gold lettering.
-* Crowned R crest.
-* Clear faceted crystal-style cap.
-* Dark core visible inside the cap.
-* Polished gold collar and atomiser hardware.
-* Black and gold packaging.
-* Versailles-inspired luxury.
-* Pineapple, ginger, smoke, birch, dark wood, and clean fabric as principal visual motifs.
+- Tall rectangular bottle.
+- Heavy transparent glass.
+- Warm amber liquid.
+- Thick clear base.
+- Broad architectural shoulders.
+- Black rectangular front label.
+- Antique gold lettering.
+- Crowned R crest.
+- Clear faceted crystal-style cap.
+- Dark core visible inside the cap.
+- Polished gold collar and atomiser hardware.
+- Black and gold packaging.
+- Versailles-inspired luxury.
+- Pineapple, ginger, smoke, birch, dark wood, and clean fabric as principal visual motifs.
 
 The bottle should never be depicted as lightweight, brightly coloured, sporty, futuristic, or covered in unnecessary decoration.
 
