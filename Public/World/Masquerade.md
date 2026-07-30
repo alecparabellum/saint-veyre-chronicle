@@ -30,8 +30,6 @@ The drydown replaces much of the opening brightness with amber, vanilla, benzoin
 
 Some of the tart red-fruit character remains until the end.
 
-The final result is sweet, dark, floral, sensual, and persistent.
-
 ---
 
 # Position within The Le Veil Collection
@@ -40,15 +38,15 @@ Masquerade followed Le Masque Eau de Parfum.
 
 It uses the collection's grapefruit, rose, and musk backbone but interprets it through:
 
-* Red fruit.
-* Amber.
-* Vanilla.
-* Caramel.
-* Oud.
-* Night.
-* Seduction.
-* Performance.
-* Theatricality.
+- Red fruit.
+- Amber.
+- Vanilla.
+- Caramel.
+- Oud.
+- Night.
+- Seduction.
+- Performance.
+- Theatricality.
 
 Where La Rose Bleue Voilée is controlled and versatile, Masquerade is deliberately indulgent.
 
@@ -68,14 +66,14 @@ The association developed after blue roses became central to La Rose Bleue Voil�
 
 Masquerade campaigns increasingly used:
 
-* Red roses.
-* Blood orange.
-* Red berries.
-* Burgundy velvet.
-* Ruby liquid.
-* Dark gold.
-* Masquerade masks.
-* Candlelight.
+- Red roses.
+- Blood orange.
+- Red berries.
+- Burgundy velvet.
+- Ruby liquid.
+- Dark gold.
+- Masquerade masks.
+- Candlelight.
 
 Consumers began treating it as the red fragrance of the collection.
 
@@ -87,39 +85,37 @@ The name became standard among dupe houses but remained unofficial within Maison
 
 ## Eau de Parfum Notes
 
-* Grapefruit.
-* Blood orange.
-* Strawberry.
-* Raspberry.
-* Bulgarian rose.
-* Turkish rose.
-* Agarwood.
-* Amber.
-* Vanilla.
-* Benzoin.
-* Caramel.
-* Cedar.
-* Musk.
-
----
+- Grapefruit.
+- Blood orange.
+- Strawberry.
+- Raspberry.
+- Bulgarian rose.
+- Turkish rose.
+- Agarwood.
+- Amber.
+- Vanilla.
+- Benzoin.
+- Caramel.
+- Cedar.
+- Musk.
 
 ## Extrait Additions and Adjustments
 
 The Extrait de Parfum increases:
 
-* Oud.
-* Rose concentration.
-* Amber density.
-* Vanilla.
-* Benzoin.
-* Musk.
-* Overall performance.
+- Oud.
+- Rose concentration.
+- Amber density.
+- Vanilla.
+- Benzoin.
+- Musk.
+- Overall performance.
 
 It also adds:
 
-* Violet.
+- Violet.
 
-The violet is used to darken the floral heart and create a dusk-like powdery shadow around the roses and oud.
+The violet darkens the floral heart and creates a dusk-like powdery shadow around the roses and oud.
 
 ---
 
@@ -127,10 +123,10 @@ The violet is used to darken the floral heart and create a dusk-like powdery sha
 
 ## Principal Materials
 
-* Grapefruit.
-* Blood orange.
-* Strawberry.
-* Raspberry.
+- Grapefruit.
+- Blood orange.
+- Strawberry.
+- Raspberry.
 
 The opening is the freshest stage of the fragrance.
 
@@ -152,11 +148,11 @@ It does not remain light for long.
 
 ## Principal Materials
 
-* Bulgarian rose.
-* Turkish rose.
-* Strawberry.
-* Raspberry.
-* Amber.
+- Bulgarian rose.
+- Turkish rose.
+- Strawberry.
+- Raspberry.
+- Amber.
 
 The roses are the centre of Masquerade.
 
@@ -180,13 +176,13 @@ The heart is lush, warm, and highly diffusive.
 
 ## Principal Materials
 
-* Agarwood.
-* Amber.
-* Vanilla.
-* Benzoin.
-* Caramel.
-* Cedar.
-* Musk.
+- Agarwood.
+- Amber.
+- Vanilla.
+- Benzoin.
+- Caramel.
+- Cedar.
+- Musk.
 
 The drydown becomes significantly darker and sweeter.
 
@@ -202,9 +198,7 @@ Musk extends the scent trail.
 
 Oud remains present beneath the composition.
 
-In the Eau de Parfum, it is controlled and deliberately subtle.
-
-It gives depth and expense without dominating the fragrance.
+In the Eau de Parfum it is controlled and deliberately subtle, giving depth and expense without dominating the fragrance.
 
 The final effect is a dark sweet rose with persistent red-fruit tartness.
 
@@ -218,17 +212,13 @@ The Eau de Parfum is considered the balanced version of Masquerade.
 
 It provides:
 
-* Strong performance.
-* Dense rose.
-* Clear red-fruit character.
-* Noticeable sweetness.
-* Subtle oud.
-* Warm amber.
-* A smooth gourmand drydown.
-
-Alec considers this concentration the sweet spot of the composition.
-
-The oud is present but does not overwhelm the rose, fruit, or amber.
+- Strong performance.
+- Dense rose.
+- Clear red-fruit character.
+- Noticeable sweetness.
+- Subtle oud.
+- Warm amber.
+- A smooth gourmand drydown.
 
 ---
 
@@ -236,9 +226,7 @@ The oud is present but does not overwhelm the rose, fruit, or amber.
 
 The EDP liquid is transparent blood red.
 
-It should appear rich and jewel-like.
-
-The colour must remain transparent enough for light to pass through the ribbed bottle.
+It should appear rich and jewel-like while remaining transparent enough for light to pass through the ribbed bottle.
 
 ---
 
@@ -246,15 +234,15 @@ The colour must remain transparent enough for light to pass through the ribbed b
 
 The EDP is best suited to:
 
-* Autumn.
-* Winter.
-* Night.
-* Formal events.
-* Dates.
-* Parties.
-* Luxury hotels.
-* Evening wear.
-* Situations where strong projection is desirable.
+- Autumn.
+- Winter.
+- Night.
+- Formal events.
+- Dates.
+- Parties.
+- Luxury hotels.
+- Evening wear.
+- Situations where strong projection is desirable.
 
 It may be worn by any gender.
 
@@ -266,15 +254,15 @@ Its greatest commercial popularity is among women.
 
 The EDP uses:
 
-* Cylindrical ribbed glass.
-* Transparent blood-red liquid.
-* Thick clear base.
-* Ivory label.
-* Gold border.
-* Gold mask emblem.
-* Masquerade title in red.
-* Standard oval ivory MV cap.
-* Polished gold collar.
+- Cylindrical ribbed glass.
+- Transparent blood-red liquid.
+- Thick clear base.
+- Ivory label.
+- Gold border.
+- Gold mask emblem.
+- Masquerade title in red.
+- Standard oval ivory MV cap.
+- Polished gold collar.
 
 ---
 
@@ -282,15 +270,15 @@ The EDP uses:
 
 The EDP uses a cylindrical carton with:
 
-* Ivory upper section.
-* Gold edging.
-* Gold mask emblem.
-* Maison Le Veil wordmark.
-* Masquerade title in red.
-* Deep red lower section.
-* Tonal red rose pattern.
-* Eau de Parfum designation.
-* 100 ml volume information.
+- Ivory upper section.
+- Gold edging.
+- Gold mask emblem.
+- Maison Le Veil wordmark.
+- Masquerade title in red.
+- Deep red lower section.
+- Tonal red rose pattern.
+- Eau de Parfum designation.
+- 100 ml volume information.
 
 The red base gives the package a brighter and more luxurious appearance than the Extrait.
 
@@ -304,14 +292,14 @@ Masquerade Extrait is darker, heavier, and more oud-forward.
 
 It increases:
 
-* Concentration.
-* Projection.
-* Longevity.
-* Rose density.
-* Amber.
-* Benzoin.
-* Oud.
-* Musk.
+- Concentration.
+- Projection.
+- Longevity.
+- Rose density.
+- Amber.
+- Benzoin.
+- Oud.
+- Musk.
 
 The addition of violet gives the floral heart a shadowed quality.
 
@@ -321,56 +309,32 @@ Its opening still contains red fruit and citrus, but the darker materials appear
 
 ---
 
-## Business Motivation
+## Market Motivation
 
-The Extrait was created primarily as a business decision.
+The Extrait was introduced after repeated demand for:
 
-Consumers repeatedly requested:
+- More oud.
+- Greater strength.
+- Longer performance.
+- A darker presentation.
+- A more expensive and concentrated edition.
 
-* More oud.
-* Greater strength.
-* Longer performance.
-* A darker presentation.
-* A more expensive and concentrated edition.
-
-Alec did not believe the EDP required intensification.
-
-She considered the original balance more elegant.
-
-The Extrait was produced to satisfy demand.
-
----
-
-## Alec's Opinion
-
-Masquerade Extrait is Alec's least favourite fragrance within The Le Veil Collection.
-
-She does not consider it unsuccessful.
-
-She believes it is effective, technically accomplished, and appropriate for its audience.
-
-Her objection is one of balance.
-
-In her view, the increased oud and density reduce some of the contrast that makes the Eau de Parfum compelling.
-
-The EDP moves from fresh tart fruit into dark sweetness.
-
-The Extrait begins closer to darkness and therefore loses part of the journey.
+It was positioned as the most opulent release within The Le Veil Collection.
 
 ---
 
 ## Price
 
-The Extrait is the most expensive release within The Le Veil Collection.
+The Extrait is the most expensive release within the collection.
 
 Its price reflects:
 
-* Higher concentration.
-* Greater use of oud.
-* Increased rose materials.
-* More expensive resins.
-* Prestige positioning.
-* Darker collector packaging.
+- Higher concentration.
+- Greater use of oud.
+- Increased rose materials.
+- More expensive resins.
+- Prestige positioning.
+- Darker collector packaging.
 
 ---
 
@@ -378,19 +342,17 @@ Its price reflects:
 
 The Extrait uses:
 
-* Cylindrical ribbed glass.
-* Dark ruby liquid.
-* Thick clear base.
-* Black rectangular label.
-* Gold border.
-* Gold mask emblem.
-* Maison Le Veil wordmark in gold.
-* Masquerade title in red.
-* Extrait de Parfum designation.
-* Oval ivory MV cap.
-* Polished gold collar.
-
-Some production runs may use darker metal details while preserving the standard oval cap form.
+- Cylindrical ribbed glass.
+- Dark ruby liquid.
+- Thick clear base.
+- Black rectangular label.
+- Gold border.
+- Gold mask emblem.
+- Maison Le Veil wordmark in gold.
+- Masquerade title in red.
+- Extrait de Parfum designation.
+- Oval ivory MV cap.
+- Polished gold collar.
 
 ---
 
@@ -400,77 +362,17 @@ The Extrait uses a cylindrical black carton.
 
 Its features include:
 
-* Deep black or black-burgundy surface.
-* Dark red botanical rose pattern.
-* Gold mask emblem.
-* Gold Maison Le Veil wordmark.
-* Masquerade title in red.
-* Extrait de Parfum designation.
-* Gold top and base edging.
-* MV monogram near the lower front.
-* 100 ml volume information.
+- Deep black or black-burgundy surface.
+- Dark red botanical rose pattern.
+- Gold mask emblem.
+- Gold Maison Le Veil wordmark.
+- Masquerade title in red.
+- Extrait de Parfum designation.
+- Gold top and base edging.
+- MV monogram near the lower front.
+- 100 ml volume information.
 
 The packaging should appear nocturnal, expensive, and ceremonial.
-
----
-
-# Personal Origins
-
-Masquerade was created during a period when **Vivienne Rousseau** and **Nia Angelou** had become increasingly present in Alec's mortal life.
-
-Alec did not yet know that they were Kindred.
-
-Nia was Toreador.
-
-Vivienne was Ventrue.
-
-They had maintained a long open relationship and had both become fascinated with Alec.
-
-As a mortal, Alec was unequipped to understand or resist the full intensity of their attention.
-
-They consumed increasing amounts of her time and emotional life.
-
-Their presence gradually drew her away from Margot and Ayo Musaku.
-
-Unknown to Alec, Vivienne and Nia were already discussing her future and the possibility of bringing her into the Kindred world.
-
----
-
-# Influence of Vivienne and Nia
-
-Masquerade was deeply shaped by the couple's influence.
-
-Its themes include:
-
-* Attraction as control.
-* Identity concealed beneath elegance.
-* Seduction without full understanding.
-* The coexistence of romance and danger.
-* The performance of normality.
-* Desire hiding predatory intention.
-* The beauty of an event whose true nature is visible only afterward.
-
-The title was not coincidental.
-
-At the time, Alec understood it primarily as an extension of Maison Le Veil's mask imagery.
-
-After her premature Embrace, she recognised how accurately the fragrance described the world already forming around her.
-
-What she had believed was aesthetic symbolism had also been biography.
-
----
-
-# The Premature Embrace
-
-Vivienne and Nia had not intended Alec's transformation to occur when it did.
-
-The attack on Alec forced Vivienne to act before their plans were complete.
-
-Only afterward could Alec fully reconsider the period in which Masquerade had been created.
-
-She came to understand that the fragrance had absorbed the atmosphere of a hidden courtship and a concealed supernatural threat.
-
-The perfume's beauty, sweetness, and darkness had emerged from a situation whose true terms she had not known.
 
 ---
 
@@ -480,29 +382,29 @@ Masquerade advertising uses a brighter version of nocturnal luxury than its name
 
 Even at night, campaigns retain:
 
-* White walls.
-* Gold light.
-* Reflective glass.
-* Red accents.
-* Visible skin.
-* Clear bottle detail.
-* Elegant hotel or penthouse interiors.
+- White walls.
+- Gold light.
+- Reflective glass.
+- Red accents.
+- Visible skin.
+- Clear bottle detail.
+- Elegant hotel or penthouse interiors.
 
 Common motifs include:
 
-* Red roses.
-* Blood orange.
-* Strawberry.
-* Raspberry.
-* Amber crystals.
-* Vanilla pods.
-* Oud wood.
-* Burgundy fabric.
-* Gold masks.
-* Beds.
-* Candlelight.
-* Paris at night.
-* Multiple implied relationships.
+- Red roses.
+- Blood orange.
+- Strawberry.
+- Raspberry.
+- Amber crystals.
+- Vanilla pods.
+- Oud wood.
+- Burgundy fabric.
+- Gold masks.
+- Beds.
+- Candlelight.
+- Paris at night.
+- Multiple implied relationships.
 
 ---
 
@@ -510,17 +412,17 @@ Common motifs include:
 
 The EDP object campaign presents:
 
-* The blood-red bottle.
-* Ivory-and-red cylindrical carton.
-* Red roses.
-* Blood orange.
-* Raspberries.
-* Strawberries.
-* Vanilla.
-* Amber crystals.
-* Caramel.
-* Oud.
-* Gold masquerade imagery.
+- The blood-red bottle.
+- Ivory-and-red cylindrical carton.
+- Red roses.
+- Blood orange.
+- Raspberries.
+- Strawberries.
+- Vanilla.
+- Amber crystals.
+- Caramel.
+- Oud.
+- Gold masquerade imagery.
 
 Principal copy includes:
 
@@ -538,44 +440,36 @@ The principal human advertisement features a glamorous Black woman seated on the
 
 The penthouse remains bright.
 
-Its walls are white or ivory.
-
-Red details appear throughout the room.
+Its walls are white or ivory, with red details throughout the room.
 
 The woman wears:
 
-* A deep red evening dress.
-* Stiletto shoes.
-* Gold jewellery.
+- A deep red evening dress.
+- Stiletto shoes.
+- Gold jewellery.
 
 She sits with crossed legs and looks directly at the camera with a provocative smile.
 
 She holds:
 
-* Masquerade Eau de Parfum in one hand.
-* A gold mask in the other.
+- Masquerade Eau de Parfum in one hand.
+- A gold mask in the other.
 
 Behind her, a white woman appears to be asleep on her stomach.
 
 Her face is not visible.
 
-Only her back, hair, and the shape beneath the bed linen can be seen.
-
 A second mask rests on the bed.
 
 The image implies an intimate encounter without showing nudity or explicit sexual activity.
-
-It is designed to remain suitable for outdoor advertising, luxury magazines, department stores, and public display.
 
 ---
 
 ## Tabloid Interpretation
 
-Some tabloids claimed that the Black woman in the Masquerade campaign was intended as a stand-in for Alec herself.
+Some tabloids claimed that the Black woman in the campaign was intended as a stand-in for Alec herself.
 
-The advertisement's implied relationship and knowing expression encouraged speculation about Alec's private life.
-
-Writers connected the campaign with rumours surrounding her relationships and social behaviour.
+The advertisement's implied relationship and knowing expression encouraged speculation about the founder's private life.
 
 Maison Le Veil never confirmed the interpretation.
 
@@ -589,16 +483,16 @@ Masquerade Extrait advertising is darker than the EDP campaign.
 
 Common elements include:
 
-* Candlelit masquerade balls.
-* Black evening dress.
-* Burgundy.
-* Gold masks.
-* Red roses.
-* Violet petals.
-* Oud wood.
-* Dark mirrors.
-* Crowded attention.
-* Desire staged as spectacle.
+- Candlelit masquerade balls.
+- Black evening dress.
+- Burgundy.
+- Gold masks.
+- Red roses.
+- Violet petals.
+- Oud wood.
+- Dark mirrors.
+- Crowded attention.
+- Desire staged as spectacle.
 
 ---
 
@@ -608,17 +502,15 @@ The principal Extrait advertisement features a long-haired man at an evening mas
 
 He wears:
 
-* Black formal tailoring.
-* A dark ornate mask.
-* Subtle red detailing.
+- Black formal tailoring.
+- A dark ornate mask.
+- Subtle red detailing.
 
 He holds the fragrance.
 
 Three women compete for his attention.
 
 Their proximity, posture, and eye contact create the sense that the fragrance has made him the centre of the event.
-
-The campaign is darker and more theatrical than the EDP advertisement.
 
 Principal copy includes:
 
@@ -636,15 +528,15 @@ Masquerade sells more than Le Masque but less than La Rose Bleue Voilée.
 
 Its popularity is driven by:
 
-* Strong performance.
-* Sweetness.
-* Red-fruit opening.
-* Rich rose.
-* Luxurious packaging.
-* Night-time character.
-* High compliment factor.
-* Unisex wearability.
-* Strong appeal among women.
+- Strong performance.
+- Sweetness.
+- Red-fruit opening.
+- Rich rose.
+- Luxurious packaging.
+- Night-time character.
+- High compliment factor.
+- Unisex wearability.
+- Strong appeal among women.
 
 It is Maison Le Veil's most popular fragrance with the female audience.
 
@@ -654,40 +546,21 @@ It is Maison Le Veil's most popular fragrance with the female audience.
 
 Reviewers praise:
 
-* The tartness of the red fruits.
-* The central rose accord.
-* The restraint of the oud in the EDP.
-* The transition from brightness to dark sweetness.
-* The balance between gourmand and floral elements.
-* Its performance.
-* Its ability to remain unisex despite sweetness.
+- The tartness of the red fruits.
+- The central rose accord.
+- The restraint of the oud in the EDP.
+- The transition from brightness to dark sweetness.
+- The balance between gourmand and floral elements.
+- Its performance.
+- Its ability to remain unisex despite sweetness.
 
 Criticism often focuses upon:
 
-* The price.
-* The density of the drydown.
-* The Extrait's increased oud.
-* The reduction of contrast in the stronger concentration.
-* The possibility of overspraying.
-
----
-
-# Alec Le Veil
-
-Alec appreciates Masquerade Eau de Parfum more than the Extrait.
-
-She believes the EDP achieves the intended balance between:
-
-* Tart and sweet.
-* Bright and dark.
-* Fruit and rose.
-* Romance and danger.
-* Oud and accessibility.
-* Theatricality and wearability.
-
-The Extrait was created because the market demanded more.
-
-Alec considers more to be less interesting in this particular case.
+- The price.
+- The density of the drydown.
+- The Extrait's increased oud.
+- The reduction of contrast in the stronger concentration.
+- The possibility of overspraying.
 
 ---
 
@@ -699,23 +572,23 @@ Imitation houses commonly market Masquerade copies as:
 
 These interpretations usually emphasise:
 
-* Raspberry.
-* Strawberry.
-* Rose.
-* Vanilla.
-* Caramel.
-* Oud.
+- Raspberry.
+- Strawberry.
+- Rose.
+- Vanilla.
+- Caramel.
+- Oud.
 
 Many copies become sweeter and louder than the original.
 
 They often lose:
 
-* Grapefruit bitterness.
-* Blood-orange freshness.
-* The tartness that persists through the drydown.
-* The controlled oud.
-* The distinction between fruit sweetness and resinous sweetness.
-* The transition between stages.
+- Grapefruit bitterness.
+- Blood-orange freshness.
+- Tartness that persists through the drydown.
+- Controlled oud.
+- The distinction between fruit sweetness and resinous sweetness.
+- The transition between stages.
 
 ---
 
@@ -725,13 +598,11 @@ Masquerade expanded the emotional and commercial range of Maison Le Veil.
 
 It became:
 
-* The house's principal nocturnal fragrance.
-* Its most popular release among women.
-* The red member of the unofficial Rose Blue, Rose White, and Rose Red trio.
-* A fragrance shaped by Alec's hidden proximity to the Kindred world.
-* A public symbol of seduction, secrecy, and multiple identities.
-* The source of Maison Le Veil's most provocative advertising.
-* The proof that the house could embrace sweetness and theatricality without abandoning structure.
+- The house's principal nocturnal fragrance.
+- Its most popular release among women.
+- The red member of the unofficial Rose Blue, Rose White, and Rose Red trio.
+- The source of Maison Le Veil's most provocative advertising.
+- Proof that the house could embrace sweetness and theatricality without abandoning structure.
 
 ---
 
@@ -739,42 +610,42 @@ It became:
 
 ## Eau de Parfum
 
-* Cylindrical ribbed bottle.
-* Transparent blood-red liquid.
-* Thick clear base.
-* Ivory label.
-* Gold border.
-* Gold mask emblem.
-* Masquerade title in red.
-* Oval ivory MV cap.
-* Polished gold collar.
-* Cylindrical carton.
-* Ivory upper section.
-* Deep red lower section.
-* Tonal red rose pattern.
-* Red roses and red fruit.
-* Bright nocturnal luxury.
-* Gold mask imagery.
+- Cylindrical ribbed bottle.
+- Transparent blood-red liquid.
+- Thick clear base.
+- Ivory label.
+- Gold border.
+- Gold mask emblem.
+- Masquerade title in red.
+- Oval ivory MV cap.
+- Polished gold collar.
+- Cylindrical carton.
+- Ivory upper section.
+- Deep red lower section.
+- Tonal red rose pattern.
+- Red roses and red fruit.
+- Bright nocturnal luxury.
+- Gold mask imagery.
 
 ## Extrait de Parfum
 
-* Cylindrical ribbed bottle.
-* Dark ruby liquid.
-* Thick clear base.
-* Black label.
-* Gold border.
-* Gold mask emblem.
-* Gold Maison Le Veil wordmark.
-* Red Masquerade title.
-* Extrait designation.
-* Oval ivory MV cap.
-* Cylindrical black carton.
-* Dark red floral pattern.
-* Gold edging.
-* Oud wood.
-* Violet flowers.
-* Candlelight.
-* Masquerade-ball atmosphere.
+- Cylindrical ribbed bottle.
+- Dark ruby liquid.
+- Thick clear base.
+- Black label.
+- Gold border.
+- Gold mask emblem.
+- Gold Maison Le Veil wordmark.
+- Red Masquerade title.
+- Extrait designation.
+- Oval ivory MV cap.
+- Cylindrical black carton.
+- Dark red floral pattern.
+- Gold edging.
+- Oud wood.
+- Violet flowers.
+- Candlelight.
+- Masquerade-ball atmosphere.
 
 Masquerade should never be depicted with blue roses, pale frosted glass, rectangular standard packaging, cheerful daytime styling, or bright sporty red graphics.
 
