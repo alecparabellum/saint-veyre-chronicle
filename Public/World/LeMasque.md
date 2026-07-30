@@ -26,12 +26,12 @@ It gradually softens into the scent of clean fabric, white petals, skin musk, an
 
 Its drydown is frequently compared to:
 
-* Fresh hotel sheets.
-* Clean white clothing.
-* Sunlit linen.
-* A cool bedroom after morning rain.
-* Skin carrying the memory of expensive soap.
-* Rose petals pressed into freshly laundered fabric.
+- Fresh hotel sheets.
+- Clean white clothing.
+- Sunlit linen.
+- A cool bedroom after morning rain.
+- Skin carrying the memory of expensive soap.
+- Rose petals pressed into freshly laundered fabric.
 
 Le Masque is not dramatic in the conventional sense.
 
@@ -67,13 +67,13 @@ The association emerged after the successful blue-rose marketing of La Rose Bleu
 
 Le Masque advertising began using:
 
-* White roses.
-* Ivory petals.
-* White flowers.
-* Frosted glass.
-* White linen.
-* Pale gold.
-* Cool daylight.
+- White roses.
+- Ivory petals.
+- White flowers.
+- Frosted glass.
+- White linen.
+- Pale gold.
+- Cool daylight.
 
 The imagery encouraged consumers to view Le Masque as the white member of the collection.
 
@@ -85,22 +85,22 @@ The name remained unofficial.
 
 ## Published Notes
 
-* Grapefruit.
-* Amalfi lemon.
-* Lemon flower.
-* Bergamot.
-* Ginger.
-* Juniper berries.
-* Aldehydes.
-* Damask rose.
-* May rose.
-* White florals.
-* Musk.
-* Cedar.
-* Oakmoss.
-* Orcanox.
+- Grapefruit.
+- Amalfi lemon.
+- Lemon flower.
+- Bergamot.
+- Ginger.
+- Juniper berries.
+- Aldehydes.
+- Damask rose.
+- May rose.
+- White florals.
+- Musk.
+- Cedar.
+- Oakmoss.
+- Orcanox.
 
-The formula contains additional supporting materials intended to create the clean fabric and cool-air effects.
+The formula contains additional supporting materials intended to create its clean fabric and cool-air effects.
 
 ---
 
@@ -108,12 +108,12 @@ The formula contains additional supporting materials intended to create the clea
 
 ## Principal Materials
 
-* Grapefruit.
-* Amalfi lemon.
-* Bergamot.
-* Ginger.
-* Juniper berries.
-* Aldehydes.
+- Grapefruit.
+- Amalfi lemon.
+- Bergamot.
+- Ginger.
+- Juniper berries.
+- Aldehydes.
 
 The opening is bright, cold, and almost translucent.
 
@@ -129,21 +129,17 @@ Juniper berries introduce a dry aromatic quality.
 
 Aldehydes create the impression of cold air, white light, and clean fabric.
 
-The opening may initially appear simple on a paper strip.
-
-On skin, the materials begin to separate and develop more clearly.
-
 ---
 
 # Heart
 
 ## Principal Materials
 
-* Damask rose.
-* May rose.
-* Lemon flower.
-* White florals.
-* Musk.
+- Damask rose.
+- May rose.
+- Lemon flower.
+- White florals.
+- Musk.
 
 The rose emerges gradually rather than announcing itself.
 
@@ -165,11 +161,11 @@ The heart feels clean, quiet, and emotionally open.
 
 ## Principal Materials
 
-* Musk.
-* Cedar.
-* Oakmoss.
-* Orcanox.
-* Rose.
+- Musk.
+- Cedar.
+- Oakmoss.
+- Orcanox.
+- Rose.
 
 The drydown is the defining stage of Le Masque.
 
@@ -191,15 +187,13 @@ The final effect is commonly described as:
 
 # Development on Skin
 
-Le Masque is unusually dependent upon skin chemistry.
-
 ### First Impression
 
 Cold grapefruit, lemon, aldehydes, juniper, and bright air.
 
 ### Transition
 
-Citrus begins to soften as rose, lemon flower, and white florals emerge.
+Citrus softens as rose, lemon flower, and white florals emerge.
 
 ### Final Impression
 
@@ -217,11 +211,11 @@ Le Masque developed a reputation for performing poorly in quick retail testing.
 
 On a paper strip, some consumers perceive:
 
-* Generic citrus.
-* Clean musk.
-* Mild white flowers.
-* A restrained rose.
-* Little obvious drama.
+- Generic citrus.
+- Clean musk.
+- Mild white flowers.
+- A restrained rose.
+- Little obvious drama.
 
 On skin, the fragrance becomes warmer, softer, more dimensional, and more emotionally suggestive.
 
@@ -245,11 +239,11 @@ The musks, Orcanox, woods, and floral materials remain on skin and clothing long
 
 Its performance is commonly described as:
 
-* Moderate projection.
-* Strong longevity for a fresh fragrance.
-* Excellent clothing retention.
-* A persistent intimate scent trail.
-* More durable than its pale presentation suggests.
+- Moderate projection.
+- Strong longevity for a fresh fragrance.
+- Excellent clothing retention.
+- A persistent intimate scent trail.
+- More durable than its pale presentation suggests.
 
 ---
 
@@ -257,18 +251,18 @@ Its performance is commonly described as:
 
 Le Masque is presented as:
 
-* Bright.
-* Clean.
-* Cold at first.
-* Soft in the drydown.
-* Intimate.
-* Emotional.
-* Unisex.
-* Addictive.
-* Quietly sensual.
-* Fresh without becoming sporty.
-* Floral without becoming conventionally feminine.
-* Musky without becoming heavy.
+- Bright.
+- Clean.
+- Cold at first.
+- Soft in the drydown.
+- Intimate.
+- Emotional.
+- Unisex.
+- Addictive.
+- Quietly sensual.
+- Fresh without becoming sporty.
+- Floral without becoming conventionally feminine.
+- Musky without becoming heavy.
 
 Although developed as a masculine fragrance, it is the most easily shared across gender within the collection.
 
@@ -278,20 +272,18 @@ Although developed as a masculine fragrance, it is the most easily shared across
 
 Le Masque is best suited to:
 
-* Spring.
-* Summer.
-* Daytime.
-* Warm climates.
-* Clean professional environments.
-* Hotels.
-* Travel.
-* White clothing.
-* Linen.
-* Quiet social settings.
-* Intimate daytime encounters.
-* Situations where heavier perfume would feel intrusive.
-
-It can be worn formally, but its strongest associations are with relaxed luxury and personal space.
+- Spring.
+- Summer.
+- Daytime.
+- Warm climates.
+- Clean professional environments.
+- Hotels.
+- Travel.
+- White clothing.
+- Linen.
+- Quiet social settings.
+- Intimate daytime encounters.
+- Situations where heavier perfume would feel intrusive.
 
 ---
 
@@ -301,9 +293,7 @@ It can be worn formally, but its strongest associations are with relaxed luxury 
 
 The bottle uses the standard Maison Le Veil cylindrical ribbed form.
 
-The glass has a frosted finish.
-
-The frosting is strongest near the lower body and softens the visibility of the liquid.
+The glass has a refined frosted finish.
 
 The perfume itself is clear.
 
@@ -323,10 +313,6 @@ Its principal elements are:
 4. Paris.
 5. Eau de Parfum designation.
 
-The label should remain restrained.
-
-White floral illustration may appear on the packaging but should not overwhelm the bottle face.
-
 ---
 
 ## Cap
@@ -335,12 +321,10 @@ Le Masque uses the standard oval Maison Le Veil cap.
 
 Its features include:
 
-* Ivory face.
-* Gold rim.
-* Gold MV monogram.
-* Polished gold collar.
-
-The cap reinforces the fragrance's connection with La Rose Bleue Voilée while preserving a brighter, cleaner finish.
+- Ivory face.
+- Gold rim.
+- Gold MV monogram.
+- Polished gold collar.
 
 ---
 
@@ -350,17 +334,17 @@ Le Masque uses a cylindrical ivory carton.
 
 Its canonical features include:
 
-* Textured ivory surface.
-* Thin gold edging.
-* Gold mask emblem.
-* Maison Le Veil wordmark.
-* Le Masque title in warm gold.
-* White rose illustration.
-* White floral illustration.
-* Green botanical accents.
-* Gold MV medallion near the base.
-* Eau de Parfum designation.
-* 100 ml volume information.
+- Textured ivory surface.
+- Thin gold edging.
+- Gold mask emblem.
+- Maison Le Veil wordmark.
+- Le Masque title in warm gold.
+- White rose illustration.
+- White floral illustration.
+- Green botanical accents.
+- Gold MV medallion near the base.
+- Eau de Parfum designation.
+- 100 ml volume information.
 
 The box should remain predominantly white and ivory.
 
@@ -370,26 +354,24 @@ Blue roses should not appear on the canonical Le Masque carton.
 
 # Advertising Identity
 
-Le Masque advertising is said to have been Alec's favourite campaign within The Le Veil Collection.
-
-Its imagery is brighter, quieter, and more emotionally surreal than the advertising for the other fragrances.
+Le Masque advertising is brighter, quieter, and more emotionally surreal than the advertising for the other fragrances.
 
 Common elements include:
 
-* White roses.
-* White petals.
-* Frosted glass.
-* Grapefruit.
-* Lemon.
-* Lemon flowers.
-* White linen.
-* Bare feet.
-* Parisian daylight.
-* Pale gold masks.
-* Soft cream interiors.
-* Open windows.
-* Cool sunlight.
-* The Eiffel Tower at a distance.
+- White roses.
+- White petals.
+- Frosted glass.
+- Grapefruit.
+- Lemon.
+- Lemon flowers.
+- White linen.
+- Bare feet.
+- Parisian daylight.
+- Pale gold masks.
+- Soft cream interiors.
+- Open windows.
+- Cool sunlight.
+- The Eiffel Tower at a distance.
 
 ---
 
@@ -397,15 +379,15 @@ Common elements include:
 
 The principal object advertisement presents:
 
-* The frosted Le Masque bottle.
-* The cylindrical white-rose carton.
-* A halved grapefruit.
-* A lemon wedge.
-* White petals.
-* White flowers.
-* A pale gold mask.
-* Ivory fabric.
-* The Eiffel Tower blurred in the background.
+- The frosted Le Masque bottle.
+- The cylindrical white-rose carton.
+- A halved grapefruit.
+- A lemon wedge.
+- White petals.
+- White flowers.
+- A pale gold mask.
+- Ivory fabric.
+- The Eiffel Tower blurred in the background.
 
 Principal copy includes:
 
@@ -414,8 +396,6 @@ Principal copy includes:
 **Grapefruit. Lemon flower. Rose. Linen musk.**
 
 **Wear it on skin.**
-
-The advertisement combines literal note imagery with the emotional atmosphere of the fragrance.
 
 ---
 
@@ -429,18 +409,18 @@ Both are in their early thirties.
 
 They lie on their backs within an apparently endless field of:
 
-* White linen.
-* White petals.
-* White roses.
-* Soft daylight.
+- White linen.
+- White petals.
+- White roses.
+- Soft daylight.
 
 The woman wears a white sundress with subtle yellow and orange-red details.
 
 The man wears:
 
-* An immaculate white shirt.
-* White trousers.
-* An orange-red belt.
+- An immaculate white shirt.
+- White trousers.
+- An orange-red belt.
 
 Both are fully dressed and barefoot.
 
@@ -448,9 +428,7 @@ Their masks lie beside their faces.
 
 The woman holds the fragrance.
 
-The image is calm, intimate, and faintly unreal.
-
-It suggests a shared memory rather than a conventional romantic narrative.
+The image suggests a shared memory rather than a conventional romantic narrative.
 
 Campaign copy includes:
 
@@ -466,15 +444,15 @@ Le Masque is one of Maison Le Veil's most critically admired fragrances.
 
 Reviewers praise:
 
-* Its cold citrus opening.
-* Its transition into fabric-like musk.
-* The realism of the clean-linen effect.
-* Its restraint.
-* Its unisex character.
-* Its performance.
-* Its emotional atmosphere.
-* Its ability to become more compelling with repeated wear.
-* Its refusal to rely upon obvious sweetness or loud projection.
+- Its cold citrus opening.
+- Its transition into fabric-like musk.
+- The realism of the clean-linen effect.
+- Its restraint.
+- Its unisex character.
+- Its performance.
+- Its emotional atmosphere.
+- Its ability to become more compelling with repeated wear.
+- Its refusal to rely upon obvious sweetness or loud projection.
 
 Some critics describe it as one of the most underrated fragrances of its era.
 
@@ -484,10 +462,10 @@ Some critics describe it as one of the most underrated fragrances of its era.
 
 Le Masque is the lowest-selling of the three principal Le Veil Collection fragrances.
 
-It remains commercially successful, but it does not match:
+It remains commercially successful, but does not match:
 
-* The mass appeal of La Rose Bleue Voilée.
-* The sweetness and nocturnal glamour of Masquerade.
+- The mass appeal of La Rose Bleue Voilée.
+- The sweetness and nocturnal glamour of Masquerade.
 
 Its quieter structure makes it less immediate during retail testing.
 
@@ -501,72 +479,19 @@ For many fragrance collectors, Le Masque is the artistic peak of the collection.
 
 Le Masque is frequently described as an emotional fragrance.
 
-The description does not refer to sadness or overt nostalgia alone.
-
 Wearers associate it with:
 
-* Hotel rooms.
-* Clean beds.
-* Private mornings.
-* Travel.
-* Summer light.
-* Intimacy after conversation.
-* Clothing carrying another person's scent.
-* The quiet before leaving somewhere.
-* The memory of someone who is no longer in the room.
+- Hotel rooms.
+- Clean beds.
+- Private mornings.
+- Travel.
+- Summer light.
+- Intimacy after conversation.
+- Clothing carrying another person's scent.
+- The quiet before leaving somewhere.
+- The memory of someone who is no longer in the room.
 
 Its emotional effect often becomes stronger through personal association.
-
----
-
-# Alec Le Veil
-
-Le Masque is Alec's favourite fragrance within The Le Veil Collection.
-
-She is particularly proud of:
-
-* The transition from cold citrus to warm linen.
-* The way rose remains present without dominating.
-* Its performance despite its freshness.
-* Its unisex wearability.
-* The intimacy of its drydown.
-* The advertising campaign.
-
-Alec considers the fragrance proof that emotional subtlety and commercial perfumery do not have to be opposites.
-
----
-
-# Ayo Musaku
-
-Ayo Musaku admired Alec before Maison Le Veil existed.
-
-She regarded La Reine de Versailles Pour Homme as a masterpiece.
-
-Ayo did not wear it because she does not enjoy wearing masculine fragrances.
-
-Le Masque affected her differently.
-
-Ayo witnessed part of its development and observed Alec working through the relationship between citrus, rose, clean musk, and fabric.
-
-The experience deepened Ayo's admiration for Alec and contributed to her falling in love with her.
-
-Unlike La Reine de Versailles Pour Homme, Le Masque was a fragrance Ayo could wear herself.
-
-It became her all-time favourite perfume.
-
----
-
-# Nia Angelou
-
-Nia Angelou also became intensely attached to Le Masque.
-
-Her fascination with the fragrance helped draw Maison Le Veil and its founder further into her attention.
-
-Through Nia, Vivienne Rousseau became increasingly aware of Alec.
-
-The fragrance therefore acquired an importance extending beyond its commercial reception.
-
-It became one of the indirect connections through which Alec's mortal life approached the Kindred world long before she understood what was happening.
 
 ---
 
@@ -578,42 +503,34 @@ Imitation houses commonly market interpretations under the name:
 
 These copies usually emphasise:
 
-* Lemon.
-* Aldehydes.
-* White musk.
-* Rose.
-* Cedar.
+- Lemon.
+- Aldehydes.
+- White musk.
+- Rose.
+- Cedar.
 
 They often reproduce the clean opening but struggle with the original fragrance's development.
 
 Common weaknesses include:
 
-* Harsh aldehydes.
-* Thin rose.
-* Laundry detergent effects.
-* Weak transition.
-* Excessive synthetic musk.
-* Lack of emotional warmth in the drydown.
-
-The original is considered significantly more nuanced.
+- Harsh aldehydes.
+- Thin rose.
+- Laundry-detergent effects.
+- Weak transition.
+- Excessive synthetic musk.
+- Lack of emotional warmth in the drydown.
 
 ---
 
 # Legacy
 
-Le Masque did not become Maison Le Veil's greatest commercial success.
+Le Masque became:
 
-It became something more private.
-
-It is:
-
-* Alec's favourite within the collection.
-* Ayo Musaku's favourite fragrance.
-* A critical cult classic.
-* A reference for fresh rose and linen-musk perfumery.
-* The most openly unisex fragrance in the collection.
-* The centre of Maison Le Veil's most emotionally distinctive advertising.
-* Evidence that Alec's work could be quiet without becoming forgettable.
+- A critical cult classic.
+- A reference for fresh rose and linen-musk perfumery.
+- The most openly unisex fragrance in the collection.
+- The centre of Maison Le Veil's most emotionally distinctive advertising.
+- Evidence that a quiet fragrance could remain memorable.
 
 ---
 
@@ -621,28 +538,28 @@ It is:
 
 Future depictions should preserve:
 
-* Cylindrical ribbed bottle.
-* Clear liquid.
-* Frosted glass.
-* Thick clear base.
-* Ivory label.
-* Gold border.
-* Gold mask emblem.
-* Le Masque title in warm gold.
-* Oval ivory MV cap.
-* Polished gold collar.
-* Cylindrical ivory carton.
-* White rose illustration.
-* White floral illustration.
-* Small green botanical details.
-* Gold MV medallion.
-* Grapefruit and lemon.
-* White linen.
-* White petals.
-* Pale gold mask.
-* Bright Parisian daylight.
-* Eiffel Tower used softly in the background.
-* Clean, intimate, subtly surreal atmosphere.
+- Cylindrical ribbed bottle.
+- Clear liquid.
+- Frosted glass.
+- Thick clear base.
+- Ivory label.
+- Gold border.
+- Gold mask emblem.
+- Le Masque title in warm gold.
+- Oval ivory MV cap.
+- Polished gold collar.
+- Cylindrical ivory carton.
+- White rose illustration.
+- White floral illustration.
+- Small green botanical details.
+- Gold MV medallion.
+- Grapefruit and lemon.
+- White linen.
+- White petals.
+- Pale gold mask.
+- Bright Parisian daylight.
+- Eiffel Tower used softly in the background.
+- Clean, intimate, subtly surreal atmosphere.
 
 The fragrance should never be depicted with blue-rose packaging, dark blue liquid, rectangular standard cartons, black gothic presentation, or heavy red sensual imagery.
 
