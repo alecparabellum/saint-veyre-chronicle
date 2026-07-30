@@ -26,13 +26,11 @@ The perfume is commonly described as a:
 
 **Blue rose fragrance**
 
-The phrase does not refer to the use of blue roses within the composition.
+The phrase does not refer to blue roses within the composition.
 
 The formula uses conventional rose materials, principally Damask rose and May rose.
 
-The blue association developed because reviewers compared the fragrance's structure, versatility, cleanliness, and masculine accessibility to popular blue fragrances such as Bleu de Chanel, Dior Sauvage, and Versace Dylan Blue.
-
-Its difference was the rose.
+The blue association developed because reviewers compared the fragrance's structure, versatility, cleanliness, and masculine accessibility to popular blue fragrances. Its difference was the rose.
 
 La Rose Bleue Voilée took the broad appeal of the blue-fragrance style and placed a polished masculine rose accord at its centre.
 
@@ -50,19 +48,15 @@ The first batch used clear or naturally coloured liquid.
 
 Its packaging did not yet rely upon blue roses.
 
-The original presentation treated the fragrance as the defining signature of Maison Le Veil rather than as part of a colour-coded rose identity.
-
 Early reviewers quickly began referring to it as a blue rose fragrance.
 
 The phrase spread through fragrance channels, review sites, social media, and influencer coverage.
 
-Maison Le Veil responded almost immediately.
-
-By the second production batch, the fragrance had been renamed:
+Maison Le Veil responded by renaming the fragrance:
 
 **La Rose Bleue Voilée**
 
-The decision transformed an unofficial description into the fragrance's public identity.
+The rebranding transformed an unofficial description into the fragrance's public identity.
 
 ---
 
@@ -70,12 +64,12 @@ The decision transformed an unofficial description into the fragrance's public i
 
 The rebranding introduced:
 
-* Blue rose imagery.
-* Dusty blue liquid for the Eau de Toilette.
-* Steel or midnight blue liquid for the Eau de Parfum.
-* Blue typography.
-* Blue floral illustration.
-* Marketing built around the contradiction of an impossible rose.
+- Blue rose imagery.
+- Dusty blue liquid for the Eau de Toilette.
+- Steel or midnight blue liquid for the Eau de Parfum.
+- Blue typography.
+- Blue floral illustration.
+- Marketing built around the contradiction of an impossible rose.
 
 The perfume itself did not contain a fictional blue rose ingredient.
 
@@ -89,18 +83,18 @@ It represented a familiar masculine structure altered by something unexpected.
 
 ## Published Notes
 
-* Grapefruit.
-* Bergamot.
-* Damask rose.
-* May rose.
-* Black pepper.
-* Pink pepper.
-* Sichuan pepper.
-* Incense.
-* Ambroxan.
-* Akigalawood.
-* Labdanum.
-* Musk.
+- Grapefruit.
+- Bergamot.
+- Damask rose.
+- May rose.
+- Black pepper.
+- Pink pepper.
+- Sichuan pepper.
+- Incense.
+- Ambroxan.
+- Akigalawood.
+- Labdanum.
+- Musk.
 
 Maison Le Veil has published different variations of the note list over time.
 
@@ -117,17 +111,17 @@ The fragrance is built around four principal movements:
 3. Sweet and dry peppered spice.
 4. Woody ambroxan and musk.
 
-The rose remains central, but it is never treated as soft, cosmetic, jammy, or conventionally romantic.
+The rose remains central, but is never treated as soft, cosmetic, jammy, or conventionally romantic.
 
 Its character is:
 
-* Fresh.
-* Controlled.
-* Clean.
-* Slightly metallic.
-* Spiced.
-* Textured by wood and incense.
-* Supported by modern musks.
+- Fresh.
+- Controlled.
+- Clean.
+- Slightly metallic.
+- Spiced.
+- Textured by wood and incense.
+- Supported by modern musks.
 
 ---
 
@@ -135,10 +129,10 @@ Its character is:
 
 ## Principal Materials
 
-* Grapefruit.
-* Bergamot.
-* Pink pepper.
-* Black pepper.
+- Grapefruit.
+- Bergamot.
+- Pink pepper.
+- Black pepper.
 
 The fragrance opens with a bright citrus effect.
 
@@ -152,21 +146,17 @@ Black pepper gives the opening a drier, more assertive edge.
 
 The first impression is clean and energetic without becoming sporty.
 
-It resembles the sensation of freshly showered skin, crisp clothing, and cool air.
-
 ---
 
 # Heart
 
 ## Principal Materials
 
-* Damask rose.
-* May rose.
-* Pink pepper.
-* Sichuan pepper.
-* Incense.
-
-The rose appears early and remains visible throughout the fragrance.
+- Damask rose.
+- May rose.
+- Pink pepper.
+- Sichuan pepper.
+- Incense.
 
 Damask rose provides depth and a darker floral body.
 
@@ -178,29 +168,27 @@ Incense introduces a clean shadow beneath the floral accord.
 
 The heart is sweeter than the opening but remains dry enough to preserve a masculine profile.
 
-The effect is polished rather than romantic.
-
 ---
 
 # Drydown
 
 ## Principal Materials
 
-* Ambroxan.
-* Akigalawood.
-* Labdanum.
-* Musk.
-* Incense.
+- Ambroxan.
+- Akigalawood.
+- Labdanum.
+- Musk.
+- Incense.
 
 Ambroxan becomes increasingly prominent as the fragrance dries.
 
 It gives the composition:
 
-* Projection.
-* Clean warmth.
-* Mineral texture.
-* Modern masculine familiarity.
-* Long-lasting presence.
+- Projection.
+- Clean warmth.
+- Mineral texture.
+- Modern masculine familiarity.
+- Long-lasting presence.
 
 Akigalawood contributes peppered wood and patchouli-like depth.
 
@@ -220,12 +208,12 @@ The Eau de Toilette is the brighter and more immediately refreshing concentratio
 
 It emphasises:
 
-* Grapefruit.
-* Bergamot.
-* Pink pepper.
-* Clean rose.
-* Transparent woods.
-* Fresh musk.
+- Grapefruit.
+- Bergamot.
+- Pink pepper.
+- Clean rose.
+- Transparent woods.
+- Fresh musk.
 
 The EDT is the closest to the fragrance's popular image as a year-round after-shower rose scent.
 
@@ -233,7 +221,7 @@ It is crisp without becoming cold.
 
 It is clean without becoming soapy.
 
-It is masculine without relying on aggression.
+It is masculine without relying upon aggression.
 
 ---
 
@@ -241,27 +229,23 @@ It is masculine without relying on aggression.
 
 The EDT liquid is a soft dusty blue.
 
-The colour should appear translucent and elegant.
-
-It should never resemble bright sports drink blue or artificial neon dye.
+The colour should appear translucent and elegant, never bright sports-drink blue or neon.
 
 ---
 
 ## Wearability
 
-The EDT is particularly suited to:
+The EDT is suited to:
 
-* Daytime.
-* Work.
-* Warm weather.
-* Spring.
-* Summer.
-* Casual elegance.
-* Professional settings.
-* Post-shower wear.
-* Situations requiring versatility.
-
-It performs well enough to remain noticeable but is designed to feel easy and adaptable.
+- Daytime.
+- Work.
+- Warm weather.
+- Spring.
+- Summer.
+- Casual elegance.
+- Professional settings.
+- Post-shower wear.
+- Situations requiring versatility.
 
 ---
 
@@ -271,16 +255,16 @@ The EDT uses the standard Maison Le Veil cylindrical ribbed bottle.
 
 Its features include:
 
-* Dusty blue liquid.
-* Thick clear glass base.
-* Ivory rectangular label.
-* Gold border.
-* Blue fragrance name.
-* Gold mask emblem.
-* Maison Le Veil Paris wordmark.
-* Oval ivory cap.
-* MV monogram.
-* Polished gold collar.
+- Dusty blue liquid.
+- Thick clear glass base.
+- Ivory rectangular label.
+- Gold border.
+- Blue fragrance name.
+- Gold mask emblem.
+- Maison Le Veil Paris wordmark.
+- Oval ivory cap.
+- MV monogram.
+- Polished gold collar.
 
 ---
 
@@ -288,13 +272,13 @@ Its features include:
 
 The EDT uses a cylindrical ivory carton with:
 
-* Gold edging.
-* Blue rose illustrations.
-* Gold mask emblem.
-* Blue fragrance title.
-* Maison Le Veil Paris wordmark.
-* Eau de Toilette designation.
-* 100 ml volume information.
+- Gold edging.
+- Blue rose illustrations.
+- Gold mask emblem.
+- Blue fragrance title.
+- Maison Le Veil Paris wordmark.
+- Eau de Toilette designation.
+- 100 ml volume information.
 
 The floral illustration is light, airy, and botanical.
 
@@ -308,13 +292,13 @@ The Eau de Parfum is deeper, darker, and more concentrated.
 
 It emphasises:
 
-* Spiced rose.
-* Sichuan pepper.
-* Incense.
-* Ambroxan.
-* Akigalawood.
-* Labdanum.
-* Dense musk.
+- Spiced rose.
+- Sichuan pepper.
+- Incense.
+- Ambroxan.
+- Akigalawood.
+- Labdanum.
+- Dense musk.
 
 The citrus remains bright at the opening, but the EDP moves more quickly toward spice, smoke, and dark blue woods.
 
@@ -326,11 +310,9 @@ Its drydown is warmer, more mineral, and more persistent.
 
 ## Liquid
 
-The EDP liquid is a dark steel blue or midnight blue.
+The EDP liquid is dark steel blue or midnight blue.
 
 It should remain transparent enough for the ribbed glass to catch light.
-
-The colour should suggest polished metal, deep water, or evening sky.
 
 ---
 
@@ -338,13 +320,12 @@ The colour should suggest polished metal, deep water, or evening sky.
 
 The EDP is suited to:
 
-* Year-round wear.
-* Evening.
-* Formal events.
-* Cooler weather.
-* Professional settings requiring stronger presence.
-* Day-to-night use.
-* Situations where the EDT may feel too light.
+- Year-round wear.
+- Evening.
+- Formal events.
+- Cooler weather.
+- Professional settings requiring stronger presence.
+- Day-to-night use.
 
 ---
 
@@ -354,23 +335,17 @@ The EDP preserves the cylindrical ribbed bottle but uses a distinct cap.
 
 Its features include:
 
-* Steel blue liquid.
-* Ivory rectangular label.
-* Gold border.
-* Dark blue fragrance title.
-* Gold mask emblem.
-* Maison Le Veil Paris wordmark.
-* Brushed charcoal or gunmetal cap.
-* Circular gold MV medallion.
-* Dark metal collar.
+- Steel blue liquid.
+- Ivory rectangular label.
+- Gold border.
+- Dark blue fragrance title.
+- Gold mask emblem.
+- Maison Le Veil Paris wordmark.
+- Brushed charcoal or gunmetal cap.
+- Circular gold MV medallion.
+- Dark metal collar.
 
-The cap differs from the standard oval Maison Le Veil cap.
-
-This makes the EDP the principal visual exception within the core collection.
-
-The variation is sometimes praised for giving the EDP a more masculine and industrial character.
-
-Others consider it less consistent with the wider bottle family.
+The cap is the principal visual exception within the core collection.
 
 ---
 
@@ -378,15 +353,13 @@ Others consider it less consistent with the wider bottle family.
 
 The EDP uses a cylindrical ivory carton with:
 
-* Gold edging.
-* Dark blue base ring.
-* Deep blue rose illustration.
-* Gold mask emblem.
-* Maison Le Veil Paris wordmark.
-* Eau de Parfum designation.
-* MV monogram near the base.
-
-The illustration is darker and more dramatic than the EDT carton.
+- Gold edging.
+- Dark blue base ring.
+- Deep blue rose illustration.
+- Gold mask emblem.
+- Maison Le Veil Paris wordmark.
+- Eau de Parfum designation.
+- MV monogram near the base.
 
 ---
 
@@ -396,23 +369,19 @@ The illustration is darker and more dramatic than the EDT carton.
 
 The **Le Veil Limited Edition** restores the fragrance's original name.
 
-It is not marketed primarily as a new flanker.
+It is presented as a return to the perfume before the blue-rose mythology became inseparable from it.
 
-It is presented as a return to the fragrance before the blue-rose mythology became inseparable from it.
+The edition uses a lightly adjusted formula. Changes vary between releases but usually concern:
 
-The edition uses a lightly adjusted formula.
+- Citrus proportions.
+- Pepper balance.
+- Rose materials.
+- Musk texture.
+- Ambroxan intensity.
+- Incense.
+- Wood quality.
 
-Changes vary between releases but usually concern:
-
-* Citrus proportions.
-* Pepper balance.
-* Rose materials.
-* Musk texture.
-* Ambroxan intensity.
-* Incense.
-* Wood quality.
-
-The changes are intentionally subtle.
+The changes remain subtle.
 
 The fragrance must remain recognisable as Le Veil.
 
@@ -432,14 +401,14 @@ This reflects the original first batch, which predated the Rose Blue identity.
 
 The Limited Edition uses:
 
-* Clear ribbed glass.
-* Clear liquid.
-* Ivory and gold label.
-* Small blue rose illustration.
-* Gold mask emblem.
-* Standard oval ivory cap.
-* MV monogram.
-* Polished gold collar.
+- Clear ribbed glass.
+- Clear liquid.
+- Ivory and gold label.
+- Small blue rose illustration.
+- Gold mask emblem.
+- Standard oval ivory cap.
+- MV monogram.
+- Polished gold collar.
 
 The bottle may identify the release as:
 
@@ -449,23 +418,19 @@ The bottle may identify the release as:
 
 ## Packaging
 
-The Limited Edition uses an elaborate cylindrical presentation carton.
+The Limited Edition uses an elaborate cylindrical presentation carton with:
 
-Its features include:
-
-* Ivory textured paper.
-* Pale blue ornamental borders.
-* Large blue rose illustration.
-* Gold framing.
-* Gold MV medallion.
-* Ribbon-pull detail.
-* Limited Edition designation.
-* Eau de Parfum concentration.
-* 100 ml volume information.
+- Ivory textured paper.
+- Pale blue ornamental borders.
+- Large blue rose illustration.
+- Gold framing.
+- Gold MV medallion.
+- Ribbon-pull detail.
+- Limited Edition designation.
+- Eau de Parfum concentration.
+- 100 ml volume information.
 
 The presentation should feel archival and collectible.
-
-It resembles an object recovered from an earlier chapter of Maison Le Veil history.
 
 ---
 
@@ -477,16 +442,16 @@ The EDT campaign is bright, Parisian, and luminous.
 
 Common elements include:
 
-* White interiors.
-* Pale blue walls.
-* Gold ornament.
-* Blue roses.
-* Morning or afternoon light.
-* Marble.
-* The Eiffel Tower.
-* White tailoring.
-* Blue shirts.
-* Blue masks.
+- White interiors.
+- Pale blue walls.
+- Gold ornament.
+- Blue roses.
+- Morning or afternoon light.
+- Marble.
+- The Eiffel Tower.
+- White tailoring.
+- Blue shirts.
+- Blue masks.
 
 Principal campaign copy includes:
 
@@ -506,36 +471,25 @@ The principal launch advertisement for the EDT featured the same Black male mode
 
 campaign for La Reine de Versailles Pour Homme.
 
-In the C'est La Reine advertisement, he wore black and sat within a dark private library while receiving the attention of an older academic woman.
+In the earlier advertisement he wore black within a dark academic library.
 
-In the Maison Le Veil advertisement, he appeared alone in a bright blue-and-ivory interior.
-
-He wore:
-
-* A white suit.
-* A pale blue shirt.
-* Blue pocket square.
-* Gold detailing.
+For Maison Le Veil he appeared alone in a bright blue-and-ivory interior wearing a white suit and blue shirt.
 
 He held the fragrance in one hand and a blue mask in the other.
 
 The casting was widely interpreted as a calculated provocation.
 
-The visual suggested that the model had left one fragrance for another.
-
-Some commentators described it as Alec publicly reclaiming a masculine identity she had previously created for C'est La Reine.
+Some commentators described it as the model changing houses as visibly as he changed fragrances.
 
 ---
 
 ## Non-Compete Rumour
 
-Following the campaign, rumours claimed that Maison Le Veil intended to recruit every model who had previously appeared in La Reine de Versailles Pour Homme advertising.
+Rumours claimed that Maison Le Veil intended to recruit every model who had previously appeared in La Reine de Versailles Pour Homme advertising.
 
 The rumour proved false.
 
-Industry gossip maintained that the plan had been prevented by non-compete clauses held by the other models.
-
-Maison Le Veil never confirmed that such a plan existed.
+The remaining models were bound by non-compete clauses, but no evidence emerged that Maison Le Veil had approached them.
 
 ---
 
@@ -545,14 +499,14 @@ The EDP campaign is darker and more nocturnal.
 
 Common elements include:
 
-* Midnight blue interiors.
-* Evening Paris.
-* Blue roses.
-* Incense smoke.
-* Dark marble.
-* Candlelight.
-* Gold typography.
-* Mature masculine tailoring.
+- Midnight blue interiors.
+- Evening Paris.
+- Blue roses.
+- Incense smoke.
+- Dark marble.
+- Candlelight.
+- Gold typography.
+- Mature masculine tailoring.
 
 Principal copy includes:
 
@@ -562,10 +516,6 @@ Principal copy includes:
 
 **From day into night.**
 
-A recurring model type is a mature Hispanic man in his late thirties or early forties wearing a blue suit and white shirt.
-
-He holds the EDP bottle and a blue mask.
-
 ---
 
 ## Limited Edition Campaign
@@ -574,13 +524,13 @@ Limited Edition advertising is bright, nostalgic, and archival.
 
 Common elements include:
 
-* Ivory silk.
-* Pale blue roses.
-* Gold frames.
-* Collector's tags.
-* Parisian daylight.
-* Clear liquid.
-* The original Le Veil name.
+- Ivory silk.
+- Pale blue roses.
+- Gold frames.
+- Collector's tags.
+- Parisian daylight.
+- Clear liquid.
+- The original Le Veil name.
 
 Principal copy includes:
 
@@ -596,18 +546,16 @@ Principal copy includes:
 
 La Rose Bleue Voilée is the commercial engine of Maison Le Veil.
 
-It sells more than Le Masque and Masquerade.
-
 Its popularity is based upon:
 
-* Versatility.
-* Strong performance.
-* Recognisable modern masculine structure.
-* An unusual but accessible rose accord.
-* Attractive blue presentation.
-* Broad age appeal.
-* Easy year-round wear.
-* A memorable rebranding story.
+- Versatility.
+- Strong performance.
+- Recognisable modern masculine structure.
+- An unusual but accessible rose accord.
+- Attractive blue presentation.
+- Broad age appeal.
+- Easy year-round wear.
+- A memorable rebranding story.
 
 For many casual consumers, it is the Maison Le Veil fragrance.
 
@@ -621,42 +569,16 @@ Some consider other Maison Le Veil fragrances more artistically ambitious.
 
 Fragrance enthusiasts often praise:
 
-* The use of rose within a blue-fragrance structure.
-* The transition from citrus into peppered rose.
-* The ambroxan-rich drydown.
-* Its cleanliness.
-* Its balance between familiarity and difference.
-* Its performance.
+- The use of rose within a blue-fragrance structure.
+- The transition from citrus into peppered rose.
+- The ambroxan-rich drydown.
+- Its cleanliness.
+- Its balance between familiarity and difference.
+- Its performance.
 
 Fragrance snobs sometimes dismiss it as too mainstream.
 
 Its enormous popularity has occasionally worked against its prestige within enthusiast circles.
-
-The fragrance became so commercially dominant that some critics began treating accessibility as evidence of lesser artistry.
-
----
-
-# Personal Associations
-
-## Alec Le Veil
-
-Alec is proud of La Rose Bleue Voilée and recognises its importance to the survival and growth of her company.
-
-It proved she could create a second major commercial success after La Reine de Versailles Pour Homme.
-
-It also demonstrated that a rose-centred masculine fragrance could reach a mass audience.
-
-Within The Le Veil Collection, however, it is not her personal favourite.
-
-That position belongs to Le Masque.
-
----
-
-## Margot Musaku
-
-Margot Musaku loved La Rose Bleue Voilée on Alec.
-
-The fragrance's clean musk, peppered rose, and freshly dressed character became strongly associated with Alec in Margot's memory.
 
 ---
 
@@ -668,18 +590,16 @@ Imitation houses frequently market copies as:
 
 These are considered the most successful of the Rose Blue, Rose White, and Rose Red dupe trio.
 
-Some reproduce the general combination of citrus, rose, spice, and ambroxan effectively.
-
 They usually lack:
 
-* The quality of the rose materials.
-* The pepper transition.
-* The texture of the woods.
-* The incense.
-* The controlled sweetness.
-* The evolution from opening to drydown.
+- The quality of the rose materials.
+- The pepper transition.
+- The texture of the woods.
+- The incense.
+- The controlled sweetness.
+- The evolution from opening to drydown.
 
-The best copies approximate the feel.
+The best copies approximate the feeling.
 
 They do not reproduce the complete fragrance.
 
@@ -687,66 +607,64 @@ They do not reproduce the complete fragrance.
 
 # Legacy
 
-La Rose Bleue Voilée established Maison Le Veil as more than a prestige vanity project created from the proceeds of one famous perfume.
+La Rose Bleue Voilée established Maison Le Veil as more than a prestige company built from the proceeds of one famous perfume.
 
 It became:
 
-* The house bestseller.
-* A modern masculine rose reference.
-* A viral fragrance-community phenomenon.
-* The source of the Rose Blue name.
-* The foundation of the collection's colour mythology.
-* A visible provocation within the rivalry between Maison Le Veil and C'est La Reine.
-* Proof that Alec could repeat commercial success under her own name.
+- The house bestseller.
+- A modern masculine rose reference.
+- A viral fragrance-community phenomenon.
+- The source of the Rose Blue name.
+- The foundation of the collection's colour mythology.
+- A visible provocation within the rivalry between Maison Le Veil and C'est La Reine.
+- Proof that Alec could repeat commercial success under her own name.
 
 ---
 
 # Canonical Visual Summary
 
-Future depictions should preserve the following distinctions.
-
 ## Eau de Toilette
 
-* Cylindrical ribbed bottle.
-* Dusty blue liquid.
-* Thick clear base.
-* Ivory label.
-* Blue fragrance title.
-* Gold mask emblem.
-* Oval ivory MV cap.
-* Gold collar.
-* Ivory cylindrical carton.
-* Pale blue rose illustrations.
-* Bright Parisian presentation.
+- Cylindrical ribbed bottle.
+- Dusty blue liquid.
+- Thick clear base.
+- Ivory label.
+- Blue fragrance title.
+- Gold mask emblem.
+- Oval ivory MV cap.
+- Gold collar.
+- Ivory cylindrical carton.
+- Pale blue rose illustrations.
+- Bright Parisian presentation.
 
 ## Eau de Parfum
 
-* Cylindrical ribbed bottle.
-* Steel or midnight blue liquid.
-* Thick clear base.
-* Ivory label.
-* Dark blue fragrance title.
-* Brushed charcoal or gunmetal cap.
-* Circular gold MV medallion.
-* Dark collar.
-* Ivory cylindrical carton.
-* Darker blue roses.
-* Blue base ring.
-* Smoke, pepper, and evening imagery.
+- Cylindrical ribbed bottle.
+- Steel or midnight blue liquid.
+- Thick clear base.
+- Ivory label.
+- Dark blue fragrance title.
+- Brushed charcoal or gunmetal cap.
+- Circular gold MV medallion.
+- Dark collar.
+- Ivory cylindrical carton.
+- Darker blue roses.
+- Blue base ring.
+- Smoke, pepper, and evening imagery.
 
 ## Le Veil Limited Edition
 
-* Cylindrical ribbed bottle.
-* Clear or naturally pale liquid.
-* Ivory and gold label.
-* Small blue rose illustration.
-* Oval ivory MV cap.
-* Gold collar.
-* Elaborate ivory cylindrical carton.
-* Pale blue ornamental frame.
-* Large blue rose.
-* Gold MV medallion.
-* Archival collector presentation.
+- Cylindrical ribbed bottle.
+- Clear or naturally pale liquid.
+- Ivory and gold label.
+- Small blue rose illustration.
+- Oval ivory MV cap.
+- Gold collar.
+- Elaborate ivory cylindrical carton.
+- Pale blue ornamental frame.
+- Large blue rose.
+- Gold MV medallion.
+- Archival collector presentation.
 
 The fragrance should never be shown with rectangular standard packaging, neon-blue liquid, sporty graphics, plastic hardware, or soft pink romantic imagery.
 
