@@ -1,1 +1,261 @@
-# Alec Le Veil<br><br>## Basic Information<br><br>**Full Name:** Alec Le Veil  <br>**Clan:** Ventrue  <br>**Nationality:** French  <br>**Apparent Age:** Early Thirties  <br>**Occupation:** Perfumer and Luxury Fragrance Entrepreneur  <br>**Residence:** Saint Veyre  <br>**Status:** Neonate Kindred<br><br>---<br><br>## Appearance<br><br>Alec is a striking black woman with a poised and commanding presence. She carries herself with the effortless confidence of someone accustomed to navigating elite social circles.<br><br>Her features are sharply defined, with high cheekbones, expressive dark eyes, and a gaze that often feels more analytical than emotional. Long dark locs, frequently adorned with subtle gold accents, frame her face and contribute to an appearance that is both elegant and memorable.<br><br>Her wardrobe favors tailored silhouettes, rich fabrics, and carefully curated accessories. Velvet coats, structured jackets, fine jewelry, and understated luxury are recurring elements of her style. Even in informal settings, she rarely appears careless or unprepared.<br><br>Alec's appearance communicates refinement, ambition, and control.<br><br>---<br><br>## Personality<br><br>Alec is intelligent, observant, ambitious, and deeply self-disciplined.<br><br>She possesses a natural curiosity about people and institutions, often seeking to understand the hidden motivations behind social interactions. While capable of warmth and genuine affection, she rarely reveals her vulnerabilities quickly.<br><br>Her upbringing and professional success cultivated a strong appreciation for excellence, craftsmanship, and personal achievement. She tends to approach problems strategically and prefers influence, negotiation, and preparation over direct confrontation.<br><br>Alec is very flirty with women and is overtly a lesbian, quite obvious and intentional in the way that she looks at women.<br><br>Those who know her often describe her as:<br><br>- Elegant<br>- Determined<br>- Perceptive<br>- Reserved<br>- Charismatic<br>- Persistent<br><br>---<br><br>## Reputation<br><br>Among those familiar with her professional history, Alec is known as a talented perfumer with a refined aesthetic sensibility and a strong entrepreneurial spirit.<br><br>Within Kindred society, she is generally regarded as a recently arrived Ventrue whose intelligence and ambition make her worthy of attention, even if her long-term position within Saint Veyre remains uncertain.<br><br>She is a known lesbian, and rumored womanizer. A topic covered by tabloids from her before her kindred days.<br><br>Many find her easy to underestimate at first.<br><br>Few continue doing so for long.<br><br>---<br><br>## Known History<br><br>Born in France, Alec built a successful career in the luxury fragrance industry before her Embrace.<br><br>Her expertise in scent composition, branding, presentation, and luxury markets earned her recognition within professional circles.<br><br>A series of events eventually brought her into contact with the hidden world of the Kindred. Following her Embrace, she became part of a society far older, stranger, and more dangerous than anything she had previously imagined.<br><br>She later arrived in Saint Veyre seeking opportunity, purpose, and a place within the city's complex political landscape.<br><br>---<br><br>## Skills and Interests<br><br>### Professional Expertise<br><br>- Perfumery<br>- Luxury branding<br>- Product design<br>- Entrepreneurship<br>- Client relations<br><br>### Personal Interests<br><br>- Fine fragrances<br>- Art and aesthetics<br>- Culture<br>- History<br>- Human behavior<br>- Social dynamics<br><br>### Notable Strengths<br><br>- Strategic thinking<br>- Social intuition<br>- Negotiation<br>- Networking<br>- Long-term planning<br><br>---<br><br>## Relationships<br><br>Alec maintains a complicated network of personal, professional, and Kindred relationships.<br><br>Several influential figures played important roles in her mortal life and her transition into Kindred society.<br><br>As her story continues, these relationships remain among the most important forces shaping her future.<br><br>---<br><br>## Public Perception<br><br>Those encountering Alec for the first time often come away with the impression that she belongs wherever she stands.<br><br>Some perceive confidence.<br><br>Others perceive calculation.<br><br>Most perceive ambition.<br><br>Whether that ambition will elevate her or destroy her remains a question Saint Veyre has yet to answer.<br><br>---<br><br>## Current Position in Saint Veyre<br><br>Alec is a newly established member of Saint Veyre's Kindred society.<br><br>She possesses talent, intelligence, and considerable potential, but her place within the city's hierarchy is still being defined.<br><br>Like many ambitious neonates before her, she stands at the beginning of a story whose outcome remains unwritten.
+# Alec Le Veil
+
+## Basic Information
+
+**Birth Name:** Alexandra Jean  
+**Professional Name:** Alec Le Veil  
+**Clan:** Ventrue  
+**Generation:** 12th  
+**Nationality:** French  
+**Apparent Age:** Early Thirties  
+**Occupation:** Perfumer, fragrance designer, and luxury entrepreneur  
+**Residence:** Saint Veyre  
+**Status:** Neonate Kindred  
+
+---
+
+## Appearance
+
+Alec is a striking Black woman with a poised and commanding presence.
+
+She has rich dark skin, sharply defined features, high cheekbones, expressive dark eyes, and a gaze that often feels analytical before it feels emotional.
+
+Her long black 4C hair is commonly worn in locs, twists, or other sculptural natural styles. Small gold cuffs, beads, or jewellery accents sometimes appear within the hair.
+
+Her wardrobe favours:
+
+- Deep navy velvet.
+- Structured tailoring.
+- White or ivory shirts.
+- Gold jewellery.
+- Shell and maritime motifs.
+- Carefully selected designer pieces.
+- Elegant heels or formal shoes.
+- Strong silhouettes softened by luxurious texture.
+
+A gold shell brooch with a suspended pearl-like drop is one of her recurring accessories.
+
+Alec rarely appears careless.
+
+Even relaxed clothing tends to look deliberate.
+
+---
+
+## Personality
+
+Alec is intelligent, observant, ambitious, sensual, and deeply self-disciplined.
+
+She possesses a natural curiosity about people and institutions, often seeking to understand the motives hidden beneath polished behaviour.
+
+She is capable of warmth and genuine affection but reveals vulnerability slowly.
+
+Alec prefers:
+
+- Influence over intimidation.
+- Negotiation over force.
+- Preparation over improvisation.
+- Presentable truth over clumsy deception.
+- Loyalty over convenience.
+- Excellence over speed.
+
+She is overtly lesbian and openly appreciative of women.
+
+Flirtation comes naturally to her and is often intentional.
+
+Her confidence is real.
+
+So is the loneliness beneath it.
+
+---
+
+## Professional Reputation
+
+Alec is known internationally as the perfumer who created:
+
+**La Reine de Versailles Pour Homme**
+
+for C'est La Reine.
+
+The fragrance became a landmark masculine release, made her independently wealthy through an unusual royalty agreement, and established her as one of the most discussed perfumers of her generation.
+
+She later founded:
+
+**Maison Le Veil**
+
+The house demonstrated that she was not a one-hit wonder and became especially associated with masculine and unisex perfumery.
+
+Its foundational series is:
+
+**The Le Veil Collection**
+
+comprising:
+
+- La Rose Bleue Voilée Eau de Toilette.
+- La Rose Bleue Voilée Eau de Parfum.
+- Le Veil Limited Edition.
+- Le Masque Eau de Parfum.
+- Masquerade Eau de Parfum.
+- Masquerade Extrait de Parfum.
+
+---
+
+## Creative Philosophy
+
+Alec wears masculine and unisex fragrance almost exclusively.
+
+She admires feminine perfume and enjoys smelling it on other people, but it does not usually awaken her own creative instincts.
+
+Her compositions are therefore drawn toward:
+
+- Woods.
+- Smoke.
+- Musk.
+- Citrus.
+- Rose treated without conventional softness.
+- Dry spice.
+- Clean fabric accords.
+- Ambroxan.
+- Restrained oud.
+- Contrasts between polished brightness and controlled darkness.
+
+Alec does not regard fragrance categories as moral or rigid.
+
+She simply creates most successfully within the scent language she inhabits herself.
+
+---
+
+## Known Fragrance Preferences
+
+Alec speaks of La Reine de Versailles Pour Homme with unusual pride and reverence.
+
+She avoids calling it her magnum opus, but rarely discusses it without making clear how profoundly it changed her life.
+
+Within The Le Veil Collection, her favourite is:
+
+**Le Masque**
+
+She considers its movement from cold citrus into rose, linen, and skin musk one of her most emotionally precise compositions.
+
+She prefers Masquerade Eau de Parfum to the Extrait.
+
+In her view, the Eau de Parfum achieves the intended balance between tart fruit, rose, amber, sweetness, and restrained oud. The Extrait was created in response to demand for a louder, darker, more oud-heavy version.
+
+---
+
+## Known History
+
+Alexandra Jean was born into a humble French family.
+
+She pursued formal education in chemistry, perfumery, and fragrance design, eventually studying near Versailles.
+
+After internships and early industry work, she collaborated with C'est La Reine and created La Reine de Versailles Pour Homme at the age of twenty-five.
+
+Rather than accepting a flat payment, she negotiated royalties.
+
+The fragrance became an extraordinary success.
+
+Alexandra used the resulting wealth and reputation to establish Maison Le Veil and adopted Alec Le Veil as a professional identity.
+
+The distinction between Alexandra and Alec gradually weakened until the professional name became the one by which most people knew her.
+
+---
+
+## Public Withdrawal from Paris
+
+During the final months of her mortal public life, Alec became increasingly reclusive.
+
+She reduced appearances, worked through representatives, and eventually left Paris.
+
+The mortal public was not told that she had died.
+
+Maison Le Veil continued to receive limited communications and instructions through established private channels, creating the general impression that Alec remained alive but wished to disappear from public view.
+
+Rumours attributed her withdrawal to:
+
+- Burnout.
+- A private health crisis.
+- Corporate conflict.
+- Romantic scandal.
+- Creative retreat.
+- A permanent move abroad.
+
+Few mortals know where she went.
+
+---
+
+## Skills and Interests
+
+### Professional Expertise
+
+- Perfumery.
+- Fragrance chemistry.
+- Luxury branding.
+- Product design.
+- Entrepreneurship.
+- Contract negotiation.
+- Corporate strategy.
+- Client relations.
+- Retail development.
+- Creative direction.
+
+### Personal Interests
+
+- Fine fragrances.
+- Fashion.
+- Art and aesthetics.
+- Culture.
+- History.
+- Human behaviour.
+- Social dynamics.
+- Luxury automobiles.
+- Architecture.
+- Intimate conversation.
+
+### Notable Strengths
+
+- Strategic thinking.
+- Social intuition.
+- Negotiation.
+- Networking.
+- Long-term planning.
+- Brand construction.
+- Reading power structures.
+- Remaining composed under scrutiny.
+
+---
+
+## Relationships
+
+Alec's personal history is marked by affection, ambition, betrayal, mentorship, and unequal power.
+
+Several women remain especially important to her:
+
+- **Margot Musaku**, her first girlfriend and one of the people who knew Alexandra before the construction of Alec Le Veil.
+- **Ayo Musaku**, Margot's younger sister, Alec's former perfumery student, and later her lover.
+- **Vivienne Rousseau**, Alec's Ventrue sire and former investor.
+- **Nia Angelou**, a Toreador patron whose fascination with Alec became intimate and consuming.
+
+These relationships are not interchangeable.
+
+Each represents a different part of Alec's humanity and a different failure of trust.
+
+---
+
+## Current Position in Saint Veyre
+
+Alec is a newly established member of Saint Veyre's Kindred society.
+
+She possesses wealth, talent, intelligence, and a significant mortal legacy, but no inherited title or established domain within the city.
+
+Her ambitions include:
+
+- Re-establishing Maison Le Veil through mortal intermediaries.
+- Opening a Saint Veyre retail presence.
+- Building influence within the court.
+- Acquiring recognition, allies, and eventually domain.
+- Remaining independent of the people who once controlled her life.
+- Learning to exist as Kindred without surrendering the identity she built as a mortal.
+
+Saint Veyre is known as the City of Crowns.
+
+Alec intends to claim one of her own.
