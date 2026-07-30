@@ -8,7 +8,7 @@
 **Age:** Early Twenties  
 **Occupation:** Aspiring Perfumer and Fragrance Designer  
 **Residence:** France  
-**Status:** Mortal
+**Status:** Mortal  
 
 ---
 
@@ -22,7 +22,7 @@ Her natural 4C hair is dense and abundant. She wears it in long rope twists, thi
 
 Ayo has broad hips, a soft abdomen, powerful thighs, and generous curves. She does not attempt to make herself physically inconspicuous.
 
-Her clothing is youthful, colorful, and more experimental than Margot's. She enjoys combining inexpensive pieces with one striking accessory, unusual jewelry, vivid nails, or a fragrance that makes an otherwise ordinary outfit memorable.
+Her clothing is youthful, colourful, and more experimental than Margot's. She enjoys combining inexpensive pieces with one striking accessory, unusual jewellery, vivid nails, or a fragrance that makes an otherwise ordinary outfit memorable.
 
 Ayo is rarely without perfume blotters, handwritten notes, or small sample vials tucked somewhere in her bag.
 
@@ -32,15 +32,41 @@ Ayo is rarely without perfume blotters, handwritten notes, or small sample vials
 
 Ayo is creative, affectionate, socially bold, and highly intuitive.
 
-She experiences scent emotionally before she analyzes it technically. Where Alec was methodical and strategic, Ayo often begins with an image, sensation, memory, or atmosphere and works backward toward structure.
+She experiences scent emotionally before analysing it technically.
+
+Where Alec was methodical and strategic, Ayo often begins with an image, sensation, memory, colour, or atmosphere and works backward toward structure.
 
 She is enthusiastic when inspired and impatient when made to feel inexperienced.
 
-Ayo enjoys attention, but what she desires most is recognition. She wants someone she admires to tell her that her talent is real.
+Ayo enjoys attention, but what she desires most is recognition.
 
-She can be impulsive and conflict-avoidant, particularly when she is ashamed of something she has done. She is capable of convincing herself that a difficult truth can be postponed until it becomes easier to explain.
+She wants someone she admires to tell her that her talent is real.
+
+She can be impulsive and conflict-avoidant, particularly when ashamed of something she has done. She is capable of convincing herself that a difficult truth can be postponed until it becomes easier to explain.
 
 It rarely does.
+
+---
+
+## Fragrance Taste
+
+Ayo prefers feminine and unisex fragrances.
+
+She appreciates the artistry of masculine perfume but rarely enjoys wearing it herself.
+
+She considers **La Reine de Versailles Pour Homme** a masterpiece and one of the compositions that inspired her to take perfumery seriously.
+
+She does not wear it.
+
+Her favourite fragrance is:
+
+**Le Masque**
+
+Ayo values its movement from cold citrus into rose, clean fabric, and warm musk.
+
+Unlike Alec's more overtly masculine work, Le Masque belongs naturally within Ayo's own wardrobe.
+
+She has worn it so frequently that friends and colleagues sometimes associate its clean rose-and-linen trail with her personally.
 
 ---
 
@@ -48,11 +74,27 @@ It rarely does.
 
 Ayo is Margot Musaku's younger sister.
 
-She became interested in perfume during Alec Le Veil's rise within the fragrance industry. Alec recognized Ayo's natural scent memory and imaginative instincts and began mentoring her in fragrance design.
+She became interested in perfume during Alec Le Veil's rise within the fragrance industry.
+
+Alec recognised Ayo's natural scent memory and imaginative instincts and began mentoring her in fragrance design.
 
 The mentorship offered Ayo access to a creative world that had previously seemed distant and inaccessible.
 
-Alec taught her how to evaluate raw materials, construct accords, revise formulas, and think about fragrance as both art and communication.
+Alec taught her how to:
+
+- Evaluate raw materials.
+- Construct accords.
+- Revise formulas.
+- Identify structural weaknesses.
+- Translate visual references into scent.
+- Think about fragrance as both art and communication.
+- Distinguish an emotionally attractive idea from a commercially viable composition.
+
+Ayo observed part of the development of Le Masque.
+
+The experience changed her understanding of what perfumery could accomplish.
+
+It also deepened her attachment to Alec.
 
 Their relationship eventually became sexual while Alec was still involved with Margot.
 
@@ -62,29 +104,19 @@ It also destroyed the stability of the mentorship itself.
 
 ---
 
-## Skills and Interests
+## Maison Le Veil
 
-### Developing Expertise
+Alec believed Ayo possessed genuine talent.
 
-- Scent recognition
-- Fragrance composition
-- Raw material evaluation
-- Accord development
-- Mood boards and visual references
-- Consumer fragrance trends
-- Informal product testing
+During Maison Le Veil's expansion, she discussed the possibility of Ayo eventually developing fragrances for the house.
 
-### Personal Interests
+The proposed work would have focused upon feminine perfumery, an area Alec admired but did not feel naturally inspired to create herself.
 
-- Perfume
-- Fashion
-- Beauty culture
-- Music
-- Photography
-- Nightlife
-- Social media
-- Collecting fragrance samples
-- Experimental scent layering
+The plan never reached formal production.
+
+Alec's behaviour became increasingly erratic, the mentorship lost momentum, and Alec later withdrew from Parisian public life.
+
+Ayo was left with technical lessons, unfinished exercises, private ambitions, and no clear answer concerning what the opportunity had truly meant.
 
 ---
 
@@ -98,15 +130,48 @@ Ayo admired Alec's talent, confidence, independence, and ability to transform pr
 
 That admiration became attraction.
 
-Their sexual relationship was consensual, but it existed inside a deeply compromised situation. Alec was Margot's partner, considerably more established professionally, and responsible for guiding Ayo's development as a perfumer.
+Their sexual relationship was consensual, but existed inside a deeply compromised situation.
 
-Ayo believed that Alec saw something exceptional in her.
+Alec was:
+
+- Margot's partner.
+- Considerably more established professionally.
+- Responsible for guiding Ayo's development.
+- One of the people whose approval mattered most to Ayo.
+
+Ayo believed Alec saw something exceptional in her.
 
 Part of her still wants that to have been true.
 
-The end of the affair left Ayo carrying several incompatible emotions: love, humiliation, resentment, guilt, artistic gratitude, and the suspicion that she may never know how much of Alec's affection was genuine.
+The end of the affair left Ayo carrying several incompatible emotions:
 
-Alec's later disappearance and presumed death gave Ayo no clean opportunity to resolve any of them.
+- Love.
+- Humiliation.
+- Resentment.
+- Guilt.
+- Artistic gratitude.
+- Abandonment.
+- The suspicion that she may never know how much of Alec's affection was genuine.
+
+---
+
+## Alec's Withdrawal
+
+Ayo was disturbed when Alec's mentorship stopped abruptly.
+
+Alec began disappearing during the night, sleeping through much of the day, responding unpredictably, and cancelling professional conversations without convincing explanations.
+
+The discovery of the affair forced Ayo to divide her attention between concern for Alec and the damage inflicted upon Margot.
+
+When Alec later withdrew for an extended period, Ayo feared that something serious had happened.
+
+Controlled signs of life eventually appeared.
+
+Ayo concluded that Alec was probably avoiding her and Margot.
+
+She does not currently believe Alec is dead or in immediate danger.
+
+She does believe that something happened which Alec has chosen not to explain.
 
 ---
 
@@ -114,7 +179,9 @@ Alec's later disappearance and presumed death gave Ayo no clean opportunity to r
 
 Margot is Ayo's older sister.
 
-Ayo grew up admiring Margot's intelligence, independence, and discipline. She also sometimes felt diminished beside her, particularly when adults compared Ayo's impulsiveness with Margot's reliability.
+Ayo grew up admiring Margot's intelligence, independence, and discipline.
+
+She also sometimes felt diminished beside her, particularly when adults compared Ayo's impulsiveness with Margot's reliability.
 
 The affair with Alec inflicted a wound that apologies alone could not repair.
 
@@ -126,11 +193,43 @@ The sisters remain connected, but every attempt at reconciliation must pass thro
 
 ---
 
+## Skills and Interests
+
+### Developing Expertise
+
+- Scent recognition.
+- Fragrance composition.
+- Raw material evaluation.
+- Accord development.
+- Mood boards and visual references.
+- Consumer fragrance trends.
+- Informal product testing.
+- Feminine fragrance structures.
+- Emotional scent storytelling.
+- Experimental layering.
+
+### Personal Interests
+
+- Perfume.
+- Fashion.
+- Beauty culture.
+- Music.
+- Photography.
+- Nightlife.
+- Social media.
+- Collecting fragrance samples.
+- Independent fragrance houses.
+- Visual design.
+
+---
+
 ## Public Perception
 
 Ayo is memorable, warm, and easy to underestimate.
 
-People unfamiliar with perfume may mistake her enthusiasm for amateurism. Those who watch her work more closely recognize an unusually strong scent memory and an instinctive ability to connect fragrance with emotion.
+People unfamiliar with perfume may mistake her enthusiasm for amateurism.
+
+Those who watch her work more closely recognise an unusually strong scent memory and an instinctive ability to connect fragrance with emotion.
 
 She possesses talent.
 
@@ -148,4 +247,4 @@ Alec's mentorship remains visible in her technical habits, but Ayo increasingly 
 
 She wants to become a perfumer in her own name.
 
-Whether Margot will ever trust that name again remains uncertain.
+She also wants to know whether the future Alec once described for her was sincere, manipulative, or merely another unfinished promise.
