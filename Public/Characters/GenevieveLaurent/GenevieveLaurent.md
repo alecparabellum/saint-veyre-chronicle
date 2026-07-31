@@ -6,7 +6,7 @@
 
 **Clan:** Toreador
 
-**Position:** Harpy
+**Position:** Leading Harpy
 
 **Apparent Age:** Early 30s
 
@@ -58,7 +58,7 @@ Geneviève does not need to dominate every conversation. She is often more inter
 
 Geneviève has been a prominent member of Saint Veyre's Camarilla society for many years.
 
-Over time she became one of the city's most respected Harpies, developing a reputation for fairness, discernment, and social intelligence.
+Over time, she became the city's leading Harpy, developing a reputation for fairness, discernment, and social intelligence.
 
 Many Kindred consider her opinion more valuable than formal titles. While she possesses no executive authority within the Camarilla hierarchy, her influence upon reputation and standing is considerable.
 
@@ -86,7 +86,7 @@ Likewise, few Kindred enjoy discovering they have disappointed her.
 
 ### Prince Augustus Voss
 
-Geneviève serves within the Prince's court as one of Saint Veyre's most influential Harpies.
+Geneviève serves within the Prince's court as the leading Harpy of Saint Veyre.
 
 ### Lucien Armand
 
