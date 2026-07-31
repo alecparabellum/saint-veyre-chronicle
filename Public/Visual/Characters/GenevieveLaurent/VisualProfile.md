@@ -7,10 +7,10 @@
 
 **Canonical portrait references:**
 
-- `GenevieveLaurent_ElysiumPortrait.png`
-- `GenevieveLaurent_PrivateSalon.png`
-- `GenevieveLaurent_ClosePortrait.png`
-- `GenevieveLaurent_SocialObservation.png`
+- `GenevieveLaurent_ElysiumPortrait_01.webp`
+- `GenevieveLaurent_PrivateSalon_01.webp`
+- `GenevieveLaurent_ClosePortrait_01.webp`
+- `GenevieveLaurent_SocialObservation_01.webp`
 
 **Profile status:** Approved
 
@@ -204,7 +204,7 @@ Additional character-specific continuity rules:
 
 | Image | Date | Purpose | Canonical traits established | Notes |
 |---|---|---|---|---|
-| `GenevieveLaurent_ElysiumPortrait.png` | 2026-07-20 | Elysium environmental portrait | Face, skin tone, build, dark curly updo, purple gemstone jewellery | Approved reference |
-| `GenevieveLaurent_PrivateSalon.png` | 2026-07-20 | Private seated portrait | Controlled posture, velvet tailoring, intimate observation | Approved reference |
-| `GenevieveLaurent_ClosePortrait.png` | 2026-07-20 | Definitive facial reference | Long oval face, prominent nose, eye shape, brows, lips, beauty mark, skin texture | Primary facial reference |
-| `GenevieveLaurent_SocialObservation.png` | 2026-07-20 | Social-environment portrait | Quiet evaluation, asymmetric gaze, controlled warmth | Approved reference |
+| `GenevieveLaurent_ElysiumPortrait_01.webp` | 2026-07-20 | Elysium environmental portrait | Face, skin tone, build, dark curly updo, purple gemstone jewellery | Approved reference |
+| `GenevieveLaurent_PrivateSalon_01.webp` | 2026-07-20 | Private seated portrait | Controlled posture, velvet tailoring, intimate observation | Approved reference |
+| `GenevieveLaurent_ClosePortrait_01.webp` | 2026-07-20 | Definitive facial reference | Long oval face, prominent nose, eye shape, brows, lips, beauty mark, skin texture | Primary facial reference |
+| `GenevieveLaurent_SocialObservation_01.webp` | 2026-07-20 | Social-environment portrait | Quiet evaluation, asymmetric gaze, controlled warmth | Approved reference |

@@ -7,11 +7,11 @@
 
 **Canonical portrait references:**
 
-- `AshaRaman_ForensicOffice.png` — pending repository upload
-- `AshaRaman_ResearchDesk.png` — pending repository upload
-- `AshaRaman_Mortuary.png` — pending repository upload
-- `AshaRaman_ClosePortrait.png` — pending repository upload
-- `AshaRaman_KindredVision.png` — pending repository upload
+- `AshaRaman_ForensicOffice_01.webp` — canonical repository asset
+- `AshaRaman_ResearchDesk_01.webp` — canonical repository asset
+- `AshaRaman_Mortuary_01.webp` — canonical repository asset
+- `AshaRaman_ClosePortrait_01.webp` — canonical repository asset
+- `AshaRaman_VampiricPortrait_01.webp` — canonical repository asset
 
 **Profile status:** Approved
 
@@ -296,8 +296,8 @@ Additional character-specific rules:
 
 | Image | Date | Purpose | Canonical traits established | Notes |
 |---|---|---|---|---|
-| `AshaRaman_ForensicOffice.png` | 2026-07-20 | Primary working portrait | Indian ancestry, face, skin tone, lean build, low ponytail, professional clothing | Approved reference |
-| `AshaRaman_ResearchDesk.png` | 2026-07-20 | Research portrait | Analytical posture, practical environment, restrained curiosity | Approved reference |
-| `AshaRaman_Mortuary.png` | 2026-07-20 | Professional mortuary portrait | Clinical composure, medical authority, understated wardrobe | Approved reference |
-| `AshaRaman_ClosePortrait.png` | 2026-07-20 | Definitive facial reference | Long oval face, nose, eyes, skin texture, under-eye shadows | Primary facial reference |
-| `AshaRaman_KindredVision.png` | 2026-07-20 | Overt supernatural portrait | Reflective eyes, corpse-cool pallor, perceptual eeriness | Approved Kindred reference |
+| `AshaRaman_ForensicOffice_01.webp` | 2026-07-20 | Primary working portrait | Indian ancestry, face, skin tone, lean build, low ponytail, professional clothing | Approved reference |
+| `AshaRaman_ResearchDesk_01.webp` | 2026-07-20 | Research portrait | Analytical posture, practical environment, restrained curiosity | Approved reference |
+| `AshaRaman_Mortuary_01.webp` | 2026-07-20 | Professional mortuary portrait | Clinical composure, medical authority, understated wardrobe | Approved reference |
+| `AshaRaman_ClosePortrait_01.webp` | 2026-07-20 | Definitive facial reference | Long oval face, nose, eyes, skin texture, under-eye shadows | Primary facial reference |
+| `AshaRaman_VampiricPortrait_01.webp` | 2026-07-20 | Overt supernatural portrait | Reflective eyes, corpse-cool pallor, perceptual eeriness | Approved Kindred reference |

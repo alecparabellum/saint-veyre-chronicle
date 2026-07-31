@@ -7,11 +7,11 @@
 
 **Canonical portrait references:**
 
-- `GenevieveDArtois_ExecutiveStanding.png` — pending repository upload
-- `GenevieveDArtois_ExecutiveSeated.png` — pending repository upload
-- `GenevieveDArtois_CityExterior.png` — pending repository upload
-- `GenevieveDArtois_ClosePortrait.png` — pending repository upload
-- `GenevieveDArtois_KindredShadow.png` — pending repository upload
+- `GenevieveDArtois_ExecutiveStanding_01.webp` — canonical repository asset
+- `GenevieveDArtois_ExecutiveSeated_01.webp` — canonical repository asset
+- `GenevieveDArtois_CityExterior_01.webp` — canonical repository asset
+- `GenevieveDArtois_ClosePortrait_01.webp` — canonical repository asset
+- `GenevieveDArtois_VampiricShadowPortrait_01.webp` — canonical repository asset
 
 **Profile status:** Approved
 
@@ -299,8 +299,8 @@ Additional character-specific rules:
 
 | Image | Date | Purpose | Canonical traits established | Notes |
 |---|---|---|---|---|
-| `GenevieveDArtois_ExecutiveStanding.png` | 2026-07-20 | Standing corporate portrait | Exceptional scale, fuller build, sculptural crop, velvet tailoring | Pending repository upload |
-| `GenevieveDArtois_ExecutiveSeated.png` | 2026-07-20 | Seated executive portrait | Expansive posture, charcoal draping, architectural documents | Pending repository upload |
-| `GenevieveDArtois_CityExterior.png` | 2026-07-20 | Exterior portrait | Monumental height, long coat, Saint Veyre skyline | Pending repository upload |
-| `GenevieveDArtois_ClosePortrait.png` | 2026-07-20 | Facial reference | Broad face, full cheeks, eyeliner, crop, skin texture | Primary facial reference |
-| `GenevieveDArtois_KindredShadow.png` | 2026-07-20 | Overt supernatural portrait | Fangs, pallor, independent shadow, Lasombra presence | Pending repository upload |
+| `GenevieveDArtois_ExecutiveStanding_01.webp` | 2026-07-20 | Standing corporate portrait | Exceptional scale, fuller build, sculptural crop, velvet tailoring | Canonical repository asset |
+| `GenevieveDArtois_ExecutiveSeated_01.webp` | 2026-07-20 | Seated executive portrait | Expansive posture, charcoal draping, architectural documents | Canonical repository asset |
+| `GenevieveDArtois_CityExterior_01.webp` | 2026-07-20 | Exterior portrait | Monumental height, long coat, Saint Veyre skyline | Canonical repository asset |
+| `GenevieveDArtois_ClosePortrait_01.webp` | 2026-07-20 | Facial reference | Broad face, full cheeks, eyeliner, crop, skin texture | Primary facial reference |
+| `GenevieveDArtois_VampiricShadowPortrait_01.webp` | 2026-07-20 | Overt supernatural portrait | Fangs, pallor, independent shadow, Lasombra presence | Canonical repository asset |

@@ -6,10 +6,11 @@
 **Public file:** `Public/Characters/MarianneSaintFleur/MarianneSaintFleur.md`  
 **Canonical portrait references:**
 
-- `MarianneSaintFleur_Exterior_01.png` — pending repository upload
-- `MarianneSaintFleur_Interior_01.png` — pending repository upload
-- `MarianneSaintFleur_Close_01.png` — pending repository upload
-- `MarianneSaintFleur_Feral_01.png` — pending repository upload
+- `MarianneSaintFleur_RooftopPortrait_01.webp` — canonical repository asset
+- `MarianneSaintFleur_CommunityRoom_01.webp` — canonical repository asset
+- `MarianneSaintFleur_ClosePortrait_01.webp` — canonical repository asset
+- `MarianneSaintFleur_RooftopFullBody_01.webp` — canonical repository asset
+- `MarianneSaintFleur_FeralPortrait_01.webp` — canonical repository asset
 
 **Profile status:** Approved
 
@@ -189,7 +190,8 @@ Additional character-specific continuity rules:
 
 | Image | Date | Purpose | Canonical traits established | Notes |
 |---|---|---|---|---|
-| `MarianneSaintFleur_Exterior_01.png` | 2026-07-20 | Exterior environmental portrait | Dark skin, muscular physique, afro, tattoos, septum ring, face paint, practical clothing, controlled crows | Pending repository upload |
-| `MarianneSaintFleur_Interior_01.png` | 2026-07-20 | Interior environmental portrait | Same identity anchors in a practical Saint Veyre interior | Pending repository upload |
-| `MarianneSaintFleur_Close_01.png` | 2026-07-20 | Definitive facial close-up | Facial structure, skin tone, afro, septum ring, face-paint pattern | Pending repository upload |
-| `MarianneSaintFleur_Feral_01.png` | 2026-07-20 | Overt supernatural portrait | Yellow eyes, exposed fangs, hostile expression, aggressive controlled crows | Pending repository upload |
+| `MarianneSaintFleur_RooftopPortrait_01.webp` | 2026-07-20 | Exterior environmental portrait | Dark skin, muscular physique, afro, tattoos, septum ring, face paint, practical clothing, controlled crows | Canonical repository asset |
+| `MarianneSaintFleur_CommunityRoom_01.webp` | 2026-07-20 | Interior environmental portrait | Same identity anchors in a practical Saint Veyre interior | Canonical repository asset |
+| `MarianneSaintFleur_ClosePortrait_01.webp` | 2026-07-20 | Definitive facial close-up | Facial structure, skin tone, afro, septum ring, face-paint pattern | Canonical repository asset |
+| `MarianneSaintFleur_RooftopFullBody_01.webp` | 2026-07-20 | Full-body rooftop portrait | Full-body silhouette, muscular build, practical styling, rooftop setting, controlled crows | Canonical repository asset |
+| `MarianneSaintFleur_FeralPortrait_01.webp` | 2026-07-20 | Overt supernatural portrait | Yellow eyes, exposed fangs, hostile expression, aggressive controlled crows | Canonical repository asset |
