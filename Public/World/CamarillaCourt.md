@@ -1,6 +1,6 @@
-# CamarillaCourt.md
+# Camarilla Court of Saint Veyre
 
-## Camarilla Court of Saint Veyre
+> **Canon note:** This document provides an overview of the court. Where a character has an individual character file, that individual file is authoritative if details conflict.
 
 The Camarilla Court of Saint Veyre is widely regarded as one of the most prestigious courts in the region. While many cities struggle with instability, factional violence, or declining influence, Saint Veyre has maintained a reputation for order, sophistication, and political importance.
 
@@ -24,7 +24,7 @@ Residents are often less certain.
 
 Prince Augustus Voss has ruled Saint Veyre for over three decades.
 
-A commanding and highly educated Kindred, Voss is known for his patience, discipline, and preference for careful political maneuvering over displays of force. Under his reign the city has experienced significant economic growth and increasing influence within Camarilla society.
+A commanding and highly educated Kindred, Voss is known for his patience, discipline, and preference for careful political maneuvering over displays of force. Under his reign, the city has experienced significant economic growth and increasing influence within Camarilla society.
 
 His supporters praise him as a stabilizing force.
 
@@ -40,19 +40,19 @@ Publicly, Voss presents himself as a guardian of Saint Veyre's future and a defe
 
 ## Eleanor Whitmore
 
-**Clan:** Toreador
+**Clan:** Ventrue
 
-**Apparent Age:** Early 40s
+**Apparent Age:** Mid-50s
 
 **Position:** Seneschal
 
-Elegant, articulate, and widely respected, Eleanor Whitmore serves as the Prince's chief administrator and adviser.
+Distinguished, disciplined, and widely respected, Eleanor Whitmore serves as the Prince's chief administrator and adviser.
 
 Many day-to-day matters of governance pass through her hands.
 
-Whitmore is often the first major court official encountered by visiting Kindred and is known for maintaining a cordial demeanor even during difficult negotiations.
+Whitmore is thoughtful, remarkably patient, and known for asking perceptive questions rather than making lengthy speeches. She prefers to understand a person before reaching conclusions about them.
 
-Her influence is substantial, though she rarely draws attention to it.
+Her influence extends throughout many of Saint Veyre's institutions and power structures, though she rarely draws attention to it.
 
 Many newcomers underestimate her.
 
@@ -62,23 +62,11 @@ Most only make that mistake once.
 
 # The Sheriff
 
-## Gabriel Ortega
+**Current Holder:** Not yet established in canon
 
-**Clan:** Brujah
+The Sheriff is responsible for enforcing the Prince's laws and responding to threats against the stability of the domain.
 
-**Apparent Age:** Late 30s
-
-**Position:** Sheriff
-
-Sheriff Ortega is responsible for enforcing the Prince's laws and maintaining order throughout Saint Veyre.
-
-Direct, practical, and intimidating, Ortega possesses a reputation for fairness tempered by absolute intolerance toward threats to the city's stability.
-
-While some Kindred view him as little more than the Prince's enforcer, others note that he has prevented numerous conflicts from escalating into open violence.
-
-Most residents agree on one point:
-
-Being the subject of Ortega's attention is rarely desirable.
+Until the current holder is established through an individual character file, no existing character should be assumed to occupy this office.
 
 ---
 
@@ -110,7 +98,7 @@ The Harpies of Saint Veyre function as unofficial judges of reputation, status, 
 
 Their opinions carry considerable weight.
 
-While they possess no formal authority, few Kindred can afford to ignore them.
+While they possess no formal executive authority, few Kindred can afford to ignore them.
 
 ---
 
@@ -120,13 +108,17 @@ While they possess no formal authority, few Kindred can afford to ignore them.
 
 **Apparent Age:** Early 30s
 
-Often regarded as the leading Harpy of Saint Veyre.
+**Position:** Leading Harpy
 
-Geneviève possesses a reputation for sharp intelligence and sharper observations.
+Geneviève Laurent is widely regarded as the leading Harpy of Saint Veyre.
 
-A compliment from her can elevate a reputation.
+She possesses a reputation for exceptional intelligence, discernment, and social perception.
 
-A criticism can linger for years.
+Unlike Harpies who cultivate scandal for its own sake, Geneviève is known for evaluating character, judgment, and competence.
+
+A favorable opinion from her can elevate a reputation.
+
+Her disappointment can linger for years.
 
 ---
 
@@ -136,7 +128,9 @@ A criticism can linger for years.
 
 **Apparent Age:** Mid-40s
 
-Known for his extensive network of social and professional connections.
+**Position:** Harpy
+
+Victor Hale is known for his extensive network of social and professional connections.
 
 Victor rarely speaks without purpose.
 
@@ -146,11 +140,35 @@ Few attempt to test that theory.
 
 ---
 
+# Other Court Figures
+
+## Gabriel Ortega
+
+**Clan:** Brujah
+
+**Apparent Age:** Early 30s
+
+**Position:** Court Member
+
+Gabriel Ortega is a candid, charismatic, and unconventional member of Saint Veyre's court.
+
+He enjoys challenging assumptions and provoking conversations that expose what people genuinely think.
+
+Gabriel possesses little patience for pretension and considerable respect for competence.
+
+His informality sometimes causes newcomers to underestimate him.
+
+Those who dismiss his observations entirely frequently regret doing so.
+
+---
+
 # Primogen Council
 
 The Primogen Council advises the Prince and represents the interests of Saint Veyre's major clans.
 
 While officially advisory in nature, the council exerts significant political influence throughout the city.
+
+The following members remain part of the current court overview. Their individual histories and more detailed characterization will be established through future character files.
 
 ---
 
@@ -218,12 +236,12 @@ Widely regarded as one of the city's most difficult Kindred to predict.
 
 Every newcomer to Saint Veyre receives essentially the same advice:
 
-* Respect the Prince's authority.
-* Learn local customs before speaking boldly.
-* Do not underestimate social politics.
-* Reputation matters.
-* Boons matter.
-* Patience is rewarded.
+- Respect the Prince's authority.
+- Learn local customs before speaking boldly.
+- Do not underestimate social politics.
+- Reputation matters.
+- Boons matter.
+- Patience is rewarded.
 
 Saint Veyre offers extraordinary opportunities to ambitious Kindred.
 
@@ -232,4 +250,3 @@ It is also a city where a single mistake can remain attached to a name for decad
 Many seek a crown.
 
 Not all survive the climb.
-
